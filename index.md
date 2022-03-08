@@ -1,4 +1,4 @@
-## Welcome to my homepages!
+## Welcome to my homepage!
 
 ### About me
 Hello, I'm Bowen Liu, a senior student in Shandong University. During this semester I'm in an enhenced programm of graduate study organized by BICMR, after that, I will goto YMSC for a Ph.D. of pure mathematics. I am quite interested in finding connections between things seem to be unrelated, especially in aspects of topology and geometry, with an algebraic approach. Recently I'm reading some theories about GIT and symplectic reduction, in order to finish my graduate thesis, about Yang-Mills equations on Riemann surfaces and Moduli space.
@@ -14,4 +14,4 @@ Here are some notes I typed during my study in Peking University.
 ### Contact
 bowenl-math@outlook.com
 
-Please contact me if you find any mistakes in my notes! Thanks in advance.
+Please contact me if you find any mistake in my notes! Thanks in advance.
