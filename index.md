@@ -5,8 +5,8 @@ Hello, I'm Bowen Liu, a senior student in Shandong University. Nowadays I'm in e
 
 ### Course notes
 
-(w)[www.baidu.com]
 
+这是一个链接 [菜鸟教程](https://www.runoob.com)
 
 
 ### Contact
