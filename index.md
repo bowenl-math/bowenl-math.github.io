@@ -1,37 +1,15 @@
 ## Welcome to my homepages!
 
-You can use the [editor on GitHub](https://github.com/bowenl-math/bowenl-math.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### About me
+Hello, I'm Bowen Liu, a senior student in Shandong University. Nowadays I'm in enhenced programm of graduate study organized by BICMR. I am quite interested in finding connections between things seem to be unrelated, especially in aspects of topology and geometry, with algebraic approach. Recently I'm reading some theories about GIT and symplectic reduction, in order to finish my graduate thesis, about Yang-Mills equations on Riemann surfaces and Moduli space.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Course notes
 
-### Markdown
+(w)[www.baidu.com]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Contact
+bowenl-math@outlook.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bowenl-math/bowenl-math.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact me if you find any mistakes in my notes! Thanks in advance.
