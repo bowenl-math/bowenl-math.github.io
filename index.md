@@ -5,11 +5,11 @@ Hello, I'm Bowen Liu, a senior student in Shandong University. During this semes
 
 ### Course notes
 
-Here are some notes I written during my study in Peking University
-* Last updated 2022.3.8 [Representation theory](bowenl-math.github.io/notes/Representation theory.pdf), teaching by Emanuel Scheidegger.
-* Last updated 2022.3.8 [Hodge theory and complex algebraic geometry](bowenl-math.github.io/notes/Hodge theory and Complex Algebraic Geomtry.pdf), teaching by Qizheng Yin.
-* Last updated 2022.3.8 [Riemann surface](bowenl-math.github.io/notes/Riemann surface.pdf), teaching by Xiaobo Liu.
-* Last updated 2022.3.8 [Homology theory](bowenl-math.github.io/notes/同调论.pdf), teaching by Huabing Ge.
+Here are some notes I typed during my study in Peking University
+* Last updated 2022.3.8 [Representation theory](bowenl-math.github.io/notes/Representation theory.pdf), lectured by Emanuel Scheidegger.
+* Last updated 2022.3.8 [Hodge theory and complex algebraic geometry](bowenl-math.github.io/notes/Hodge theory and Complex Algebraic Geomtry.pdf), lectured by Qizheng Yin.
+* Last updated 2022.3.8 [Riemann surface](bowenl-math.github.io/notes/Riemann surface.pdf), lectured by Xiaobo Liu.
+* Last updated 2022.3.8 [Homology theory](bowenl-math.github.io/notes/同调论.pdf), lectured by Huabing Ge.
 
 ### Contact
 bowenl-math@outlook.com
