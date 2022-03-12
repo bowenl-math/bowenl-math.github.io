@@ -12,6 +12,6 @@ Here are some notes I typed during my study in Peking University.
 * (Last updated 2022.3.10)[Homology theory](notes/homology.pdf), lectured by Huabing Ge.
 
 ### Contact
-bowenl-math@outlook.com
+bowenl_math@outlook.com
 
 Please contact me if you find any mistake in my notes! Thanks in advance.
