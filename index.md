@@ -7,7 +7,7 @@ Hello, I'm Bowen Liu, a senior student in Shandong University. During this semes
 
 Here are some notes I typed during my study in Peking University.
 * (Last updated 2022.3.8)[Representation theory](notes/Representation_theory.pdf), lectured by Emanuel Scheidegger.
-* (Last updated 2022.3.9)[Hodge theory and complex algebraic geometry](notes/Hodge_theory_and_Complex_Algebra_Geometry.pdf), lectured by Qizheng Yin. ** Attention: There may be a considerable number of errors, since I have quite a lot problems to work out.**
+* (Last updated 2022.3.9)[Hodge theory and complex algebraic geometry](notes/Hodge_theory_and_Complex_Algebra_Geometry.pdf), lectured by Qizheng Yin. **Attention: There may be a considerable number of errors, since I have quite a lot problems to work out.**
 * (Last updated 2022.3.14)[Riemann surface](notes/Riemann_surface.pdf), lectured by Xiaobo Liu.
 * (Last updated 2022.3.10)[Homology theory](notes/homology.pdf), lectured by Huabing Ge.
 
