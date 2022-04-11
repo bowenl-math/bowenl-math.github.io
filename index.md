@@ -10,7 +10,7 @@ Recently I'm learning some quite interesting theories about Yang-Mills functiona
 Here are some notes I typed during my study in Peking University.
 * (Last updated 2022.3.29)[Representation theory](notes/Representation_theory.pdf), lectured by Emanuel Scheidegger.
 * (Last updated 2022.4.8)[Hodge theory and complex algebraic geometry](notes/Hodge_theory_and_Complex_Algebraic_Geometry.pdf), lectured by Qizheng Yin.  **Attention: There may be a considerable number of errors, since I have quite a lot problems to work out.**
-* (Last updated 2022.4.2)[Riemann surface](notes/Riemann_surface.pdf), lectured by Xiaobo Liu.
+* (Last updated 2022.4.11)[Riemann surface](notes/Riemann_surface.pdf), lectured by Xiaobo Liu.
 * (Last updated 2022.3.31)[Homology theory](notes/homology.pdf), lectured by Huabing Ge.
 
 ### Contact
