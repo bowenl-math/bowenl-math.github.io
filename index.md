@@ -17,6 +17,6 @@ Here are some notes I typed during my study in Peking University.
 
 Here is the draft of my undergraduate thesis, [Draft](notes/Draft.pdf)
 ### Contact
-bowenl_math@outlook.com
+201800150089@mail.sdu.edu.cn
 
 Please contact me if you find any mistake in my notes! Thanks in advance.
