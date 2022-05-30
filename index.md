@@ -1,7 +1,7 @@
 ## Welcome to my homepage!
 
 ### About me
-Hello, I'm Bowen Liu, a senior student in Shandong University. During this semester I'm in an enhenced program of graduate study organized by BICMR, after that, I will go to YMSC for a Ph.D. of pure mathematics. I am quite interested in finding connections between things seem to be unrelated, especially in aspects of topology and geometry, with an algebraic approach. 
+Hello, I'm Bowen Liu, a senior student in Shandong University. During this semester I'm in an enhenced program of graduate study organized by BICMR. After that, I will go to YMSC for a Ph.D. of pure mathematics. I am quite interested in finding connections between things seem to be unrelated, especially in aspects of topology and geometry, with an algebraic approach. 
 
 Recently I'm fixing typos and mistakes I made in notes I typed during this semester in order to review what I have learnt. I also applied for a summer program about complex geometry and the deformation about complex structure organized by Tianyuan Mathematical Center in Northeast China. Maybe I will do some preparations for it if time permitted.
 
