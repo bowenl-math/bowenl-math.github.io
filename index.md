@@ -11,7 +11,7 @@ Here are some notes I typed during my study in Peking University.
 * (Last updated 2022.6.11)[Representation theory](notes/Representation_theory.pdf), lectured by Emanuel Scheidegger.
 * (Last updated 2022.5.29)[Hodge theory and complex algebraic geometry](notes/Hodge_theory_and_Complex_Algebraic_Geometry.pdf), lectured by Qizheng Yin.
 * (Last updated 2022.6.14)[Riemann surface](notes/Riemann_surface.pdf), lectured by Xiaobo Liu. Here is [tex file](notes.Riemann_surface.zip).
-* (Last updated 2022.5.28)[Homology theory](notes/homology.pdf), lectured by Huabing Ge.
+* (Last updated 2022.6.17)[Homology theory](notes/homology.pdf), lectured by Huabing Ge.
 
 ### Drafts
 
