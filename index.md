@@ -1,9 +1,9 @@
 ## Welcome to my homepage!
 
 ### About me
-Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested in exploring connections between things seem to be unrelated, especially in aspects of topology and geometry, with an algebraic approach. 
+Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested in exploring relations between things seem to be unrelated, especially in aspects of topology and geometry, with an algebraic approach. 
 
-Recently I'm fixing typos and mistakes I made in notes I typed during this semester in order to review what I have learnt. I also applied for a summer program about complex geometry and the deformation about complex structure organized by Tianyuan Mathematical Center in Northeast China. Maybe I will do some preparations for it if time permitted.
+This summer maybe quite busy but interesting for me. 
 
 ### Course notes
 
@@ -15,7 +15,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 ### Seminars
 
-* (Last updated 2022.7.4)Here is the draft for a summer seminar I take participate in about GTM82 for freshmans or sophomores of Tsinghua University, [Draft](notes/Draft_of_82.pdf)
+* (Last updated 2022.7.4)Here is the draft of lecture notes for a summer seminar about GTM82 I take participate in, [Draft](notes/Draft_of_82.pdf)
 
 * Here will be a part of solution for atiyah's commutative algebra.
 
