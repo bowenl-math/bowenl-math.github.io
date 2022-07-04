@@ -3,7 +3,9 @@
 ### About me
 Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested in exploring relations between things seem to be unrelated, especially in aspects of topology and geometry, with an algebraic approach. 
 
-This summer maybe quite busy but interesting for me. 
+This summer maybe quite busy but interesting for me. I take participate in two summer siminars: one is about Bott-Tu' s differential forms in algebraic topology, the other one is about commutative algebra, mainly follows atiyah's. If you're also interested in these two siminars, please email me or wechat me directly. I'll also follow some online courses such as
+* https://math.ustc.edu.cn/2022/0613/c18653a558106/pagem.htm
+* http://www.cim.nankai.edu.cn/2022/0627/c11453a460256/page.htm
 
 ### Course notes
 
@@ -26,6 +28,6 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 This article is a lecture on Yang-Mills functional, a gauge invariant functional defined on the space of connections on G-principle bundles. By considering the first variation of Yang-Mills functional we obtain the Yang-Mills equations, and the solutions are called Yang-Mills connections. There are too many interesting applications of Yang-Mills connections, and my lecture focuses on the its relations to stability of holomorphic structures of vector bundle over a Riemann surface, or in a fancy word, its moduli space.
 
 ### Contact
-201800150089@mail.sdu.edu.cn
+liubw22@mails.tsinghua.edu.cn
 
 Please contact me if you find any mistake in my notes! Thanks in advance.
