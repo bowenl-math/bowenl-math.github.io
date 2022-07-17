@@ -7,6 +7,12 @@ This summer maybe quite busy but interesting for me. I take participate in two s
 * [Deformation theory](http://tianyuan.xmu.edu.cn/cn/videos/)
 * [Some short courses organized by CIM](http://www.cim.nankai.edu.cn/2022/0627/c11453a460256/page.htm)
 
+### Seminars
+
+* (Last updated 2022.7.17)Here is the draft of lecture notes for a summer seminar about GTM82 I take participate in, [Draft](notes/Draft_of_82.pdf)
+
+* (Last updated 2022.7.17)Here is the draft of lecture notes for a summer seminar organized by CUHKSZ and SDU, about communicative algebra, [Draft](notes/Draft_of_CA.pdf)
+
 ### Course notes
 
 Here are some notes I typed during my study in enhanced program of BICMR in Peking University. 
@@ -14,12 +20,6 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 * (Last updated 2022.7.17)[Hodge theory and complex algebraic geometry](notes/notes for enhanced program of BICMR/Hodge_theory_and_Complex_Algebraic_Geometry.pdf), lectured by Qizheng Yin. Here is [tex file](notes/notes for enhanced program of BICMR/Hodge theory and complex algebraic geometry.zip).
 * (Done)[Riemann surface](notes/notes for enhanced program of BICMR/Riemann_surface.pdf), lectured by Xiaobo Liu. Here is [tex file](notes/notes for enhanced program of BICMR/Riemann_surface.zip).
 * (Done)[Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabing Ge. Here is [tex file](notes/notes for enhanced program of BICMR/homology.zip).
-
-### Seminars
-
-* (Last updated 2022.7.17)Here is the draft of lecture notes for a summer seminar about GTM82 I take participate in, [Draft](notes/Draft_of_82.pdf)
-
-* (Last updated 2022.7.17)Here is the draft of lecture notes for a summer seminar organized by and SDU, about communicative algebra, [Draft](notes/Draft_of_CA.pdf)
 
 ### Drafts
 
