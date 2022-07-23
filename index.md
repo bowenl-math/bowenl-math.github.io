@@ -11,7 +11,7 @@ This summer maybe quite busy but interesting for me. I take participate in two s
 
 * (Last updated 2022.7.17)Here is the draft of lecture notes for a summer seminar about GTM82 I take participate in, [Draft](notes/Draft_of_82.pdf)
 
-* (Last updated 2022.7.17)Here is the draft of lecture notes for a summer seminar organized by CUHKSZ and SDU, about communicative algebra, [Draft](notes/Draft_of_CA.pdf)
+* (Last updated 2022.7.23)Here is the draft of lecture notes for a summer seminar organized by CUHKSZ and SDU, about communicative algebra, [Draft](notes/Draft_of_CA.pdf)
 
 ### Course notes
 
