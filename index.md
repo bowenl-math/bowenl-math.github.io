@@ -29,8 +29,8 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 ### TA
 
-* (2022Fall)[Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
-* (2022Fall)[Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
+* (2022Fall)Part solutions to homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
+* (2022Fall)Lecture notes of [Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
 
 ### Contact
 liubw22@mails.tsinghua.edu.cn
