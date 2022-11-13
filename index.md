@@ -26,6 +26,12 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 #### 2022Fall
 * (Last updated 2022.11.13)[Riemannian geometry](notes/2022Fall/Riemannian_geo.pdf), lectured by Xiaokui Yang, I also added some related materials.
 
+
+### TA
+
+* (2022Fall)[Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
+* (2022Fall)[Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
+
 ### Contact
 liubw22@mails.tsinghua.edu.cn
 
