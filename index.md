@@ -9,7 +9,7 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
 * (2022Summer last updated 2022.10.13) Here is the draft of [lecture note](notes/2022Summer/note_for_atiyah's_CA.pdf) I typed for a seminar about communicative algebra.
 * (2022Fall, last updated 2022.11.13) Here are the lecture notes of a seminar about Bott-tu's gtm82, which is organized by chenglong yu,
    - [Čech cohomology](notes/2022Fall/Čech_cohomology.pdf)
-   - [Spectral sequence and its application](notes/2022Fall/ČeSpectral_sequence.pdf)
+   - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf)
 
 
 ### Course notes
@@ -21,6 +21,8 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 * (Last updated 2022.7.17)[Hodge theory and complex algebraic geometry](notes/notes for enhanced program of BICMR/Hodge_theory_and_Complex_Algebraic_Geometry.pdf), lectured by Qizheng Yin.
 * (Done)[Riemann surface](notes/notes for enhanced program of BICMR/Riemann_surface.pdf), lectured by Xiaobo Liu.
 * (Done)[Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabing Ge.
+
+
 #### 2022Fall
 
 
