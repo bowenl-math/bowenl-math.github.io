@@ -3,11 +3,12 @@
 ### About me
 Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested in exploring relations between things seem to be unrelated, especially in aspects of topology and geometry, with an algebraic approach. 
 
-This summer maybe quite busy but interesting for me. I take participate in two summer siminars: one is about Bott-Tu' s differential forms in algebraic topology, the other one is about commutative algebra, mainly follows atiyah's. If you're also interested in these two siminars, please email me or wechat me directly. I'll also follow some online courses such as
-* [Deformation theory](http://tianyuan.xmu.edu.cn/cn/videos/)
-* [Some short courses organized by CIM](http://www.cim.nankai.edu.cn/2022/0627/c11453a460256/page.htm)
 
 ### Seminars
+
+* (2022Summer last updated 2022.10.13)
+* (2022Fall, last updated 2022.11.13)
+
 
 * (Last updated 2022.7.17)Here is the draft of lecture notes for a summer seminar about GTM82 I take participate in, [Draft](notes/Draft_of_82.pdf)
 
