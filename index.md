@@ -8,8 +8,8 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
 
 * (2022Summer last updated 2022.10.13) Here is the draft of [lecture note](notes/2022Summer/note_for_atiyah's_CA.pdf) I typed for a seminar about communicative algebra.
 * (2022Fall, last updated 2022.11.13) Here are the lecture notes of a seminar about Bott-tu's gtm82, which is organized by chenglong yu,
-- Indented [Čech cohomology](notes/2022Fall/Čech_cohomology.pdf)
-- Indented [Spectral sequence and its application](notes/2022Fall/ČeSpectral_sequence.pdf)
+   - Indented [Čech cohomology](notes/2022Fall/Čech_cohomology.pdf)
+   - Indented [Spectral sequence and its application](notes/2022Fall/ČeSpectral_sequence.pdf)
 
 
 * (Last updated 2022.7.17)Here is the draft of lecture notes for a summer seminar about GTM82 I take participate in, [Draft](notes/Draft_of_82.pdf)
