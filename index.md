@@ -10,6 +10,8 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
 * (2022Fall) Here are the lecture notes of talks I gave, in a seminar about Bott-tu's gtm82, which is organized by chenglong yu,
    - (Last updated 2022.11.13)[Čech cohomology](notes/2022Fall/Cech_cohomology.pdf)
    - (Done)[Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf)
+* (2023Spring, last updated 2023.1.23) Here is the draft of [lecture note](notes/2023Spring/geometry_of_principal_bundle.pdf) I typed for a seminar about principal bundle and its application, which is organized by myself.
+  
 
 
 ### Course notes
@@ -27,10 +29,15 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 * (Last updated 2022.12.24)[Riemannian geometry](notes/2022Fall/Riemannian_geo.pdf), lectured by Xiaokui Yang, I also added some related materials.
 * (Last updated 2022.12.24)[Partial differential equation](notes/2022Fall/pde.pdf), mainly followed standard textbook written by Evans.
 
+
 ### TA
 
 * (2022Fall, done)Part solutions to homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
 * (2022Fall, last updated 2023.1.23)Lecture notes of [Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
+
+### Personal notes
+
+* (Last updated 2023.1.23)[Galois theory and its application](notes/personal notes/Galois_theory.pdf)
 
 ### Contact
 liubw22@mails.tsinghua.edu.cn
