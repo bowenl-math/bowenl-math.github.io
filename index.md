@@ -6,11 +6,11 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
 
 ### Seminars
 
-* (2022Summer, last updated 2023.1.23) Here is the draft of [lecture note](notes/2022Summer/note_for_atiyah's_CA.pdf) I typed for a seminar about communicative algebra.
+* (2022Summer, last updated 2023.1.23) Here is the draft of lecture note I typed for a seminar about [communicative algebra](notes/2022Summer/note_for_atiyah's_CA.pdf).
 * (2022Fall) Here are the lecture notes of talks I gave, in a seminar about Bott-tu's gtm82, which is organized by chenglong yu,
    - (Last updated 2022.11.13)[Čech cohomology](notes/2022Fall/Cech_cohomology.pdf)
    - (Done)[Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf)
-* (2023Spring, last updated 2023.1.23) Here is the draft of [lecture note](notes/2023Spring/geometry_of_principal_bundle.pdf) I typed for a seminar about principal bundle and its application, which is organized by myself.
+* (2023Spring, last updated 2023.1.23) Here is the draft of lecture note I typed for a seminar about [principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf), which is organized by myself.
   
 
 
@@ -27,7 +27,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 #### 2022Fall
 * (Last updated 2022.12.24)[Riemannian geometry](notes/2022Fall/Riemannian_geo.pdf), lectured by Xiaokui Yang, I also added some related materials.
-* (Last updated 2022.12.24)[Partial differential equation](notes/2022Fall/pde.pdf), mainly followed standard textbook written by Evans.
+* (Done)[Partial differential equation](notes/2022Fall/pde.pdf), mainly followed standard textbook written by Evans.
 
 
 ### TA
