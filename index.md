@@ -6,7 +6,7 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
 
 ### Seminars
 
-* (2022Summer, last updated 2023.1.27) Here is the draft of lecture note I typed for a seminar about [communicative algebra](notes/2022Summer/note_for_communicative_algebra.pdf).
+* (2022Summer, last updated 2023.1.29) Here is the draft of lecture note I typed for a seminar about [communicative algebra](notes/2022Summer/note_for_communicative_algebra.pdf).
 * (2022Fall) Here are the lecture notes of talks I gave, in a seminar about Bott-tu's gtm82, which is organized by chenglong yu,
    - (Last updated 2022.11.13)[Čech cohomology](notes/2022Fall/Cech_cohomology.pdf)
    - (Done)[Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf)
