@@ -38,7 +38,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 ### Personal notes
 
-* (Last updated 2023.2.1)[Galois theory and its application](notes/personal notes/Galois_theory.pdf)
+* (Last updated 2023.2.2)[Galois theory and its application](notes/personal notes/Galois_theory.pdf)
 
 ### Contact
 liubw22@mails.tsinghua.edu.cn
