@@ -12,11 +12,9 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
    - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf)
 * (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
    - (Done)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf).
-    
-    In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its application on Chern-Weil theory, and we may introduce some application on spin bundle if time and interests permitted.
+     In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its application on Chern-Weil theory, and we may introduce some application on spin bundle if time and interests permitted.
    - (Last updated 2023.2.12)[Yang-Mills equations on Riemann surface](notes/2023Spring/YM_equations_on_Riemann_surface.pdf).
-   
-    In this lecture, the first part is Kempf-Ness theorem, which lies in the intersection of the complex geometry and symplectic geometry. Then we talk about stability of holomorphic bundles, and $G$-equivariant cohomology to compute the topology of the Yang-Mills moduli spaces.
+     In this lecture, the first part is Kempf-Ness theorem, which lies in the intersection of the complex geometry and symplectic geometry. Then we talk about stability of holomorphic bundles, and $G$-equivariant cohomology to compute the topology of the Yang-Mills moduli spaces.
   
 
 
