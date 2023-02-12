@@ -10,7 +10,9 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
 * (2022Fall, done) Here are the lecture notes of talks I gave, in a seminar about Bott-tu's gtm82, which is organized by chenglong yu,
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf)
    - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf)
-* (2023Spring, last updated 2023.2.10) Here is the draft of lecture note I typed for a seminar about [principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf), which is organized by myself.
+* (2023Spring, last updated 2023.2.10) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
+   - (Done)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf)
+   - (Last updated 2023.2.12)[Yang-Mills equations on Riemann surface](notes/2023Spring/YM_equations_on_Riemann_surface.pdf)
   
 
 
