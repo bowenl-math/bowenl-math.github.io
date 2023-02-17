@@ -28,7 +28,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 
 #### 2022Fall
-* (Last updated 2022.12.24)[Riemannian geometry](notes/2022Fall/Riemannian_geo.pdf), lectured by Xiaokui Yang, I also added some related materials.
+* (Last updated 2023.2.17)[Riemannian geometry](notes/2022Fall/Riemannian_geo.pdf), lectured by Xiaokui Yang, I also added some related materials.
 * (Done)[Partial differential equation](notes/2022Fall/pde.pdf), mainly followed standard textbook written by Evans.
 
 
