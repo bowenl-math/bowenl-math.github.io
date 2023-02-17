@@ -22,7 +22,6 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
 
 Here are some notes I typed during my study in enhanced program of BICMR in Peking University. 
 * (Done)[Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. Attention: There are still too many mistakes, typos and lack of logic. Maybe one day in future I will make it better, when I do need representation theory. 
-* (Last updated 2022.7.17)[Hodge theory and complex algebraic geometry](notes/notes for enhanced program of BICMR/Hodge_theory_and_Complex_Algebraic_Geometry.pdf), lectured by Qizheng Yin.
 * (Done)[Riemann surface](notes/notes for enhanced program of BICMR/Riemann_surface.pdf), lectured by Xiaobo Liu.
 * (Done)[Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabing Ge.
 
@@ -41,6 +40,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 ### Personal notes
 
 * (Last updated 2023.2.2)[Galois theory and its application](notes/personal notes/Galois_theory.pdf)
+* (Last updated 2023.2.17)[Complex geometry](notes/personal notes/Complex_geometry.pdf). I learnt quite a lot from "Hodge theory and complex algebraic geometry" in 2022Spring, lectured by Qizheng Yin.
 
 ### Contact
 liubw22@mails.tsinghua.edu.cn
