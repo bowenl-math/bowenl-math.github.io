@@ -19,7 +19,7 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
 ### Course notes
 
 #### 2023Spring
-*(Last updated 2023.2.21)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by Jian Xiao.
+* (Last updated 2023.2.21)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by Jian Xiao.
 
 #### 2022Fall
 * (Last updated 2023.2.17)[Riemannian geometry](notes/2022Fall/Riemannian_geo.pdf), lectured by Xiaokui Yang, I also added some related materials.
