@@ -35,9 +35,10 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 ### TA
 
-* (2022Spring, last updated 2023.2.13)Lecture notes of [Algebra0](notes/2023Spring/Algebra0.pdf)
+* (2023Spring, last updated 2023.2.26)Lecture notes of [Algebra2-H](notes/2023Spring/Algebra2-H.pdf)
 * (2022Fall, done)Part solutions to homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
 * (2022Fall, last updated 2023.1.23)Lecture notes of [Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
+* (2022Spring, last updated 2023.2.13)Lecture notes of [Algebra0](notes/2023Spring/Algebra0.pdf)
 
 ### Personal notes
 
