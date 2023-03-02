@@ -11,7 +11,7 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf)
    - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf)
 * (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
-   - (Last updated 2023.2.19)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its application on Chern-Weil theory, and we may introduce some applications on spin bundle if time and interests permitted.
+   - (Last updated 2023.3.2[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its application on Chern-Weil theory, and we may introduce some applications on spin bundle if time and interests permitted.
    - (Last updated 2023.2.16)[Yang-Mills equations on Riemann surface](notes/2023Spring/YM_equations_on_Riemann_surface.pdf).
   
 
