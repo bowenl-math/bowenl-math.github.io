@@ -6,14 +6,13 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
 
 ### Seminars
 
-* (2022Summer, last updated 2023.1.30) Here is the draft of lecture note I typed for a seminar about [communicative algebra](notes/2022Summer/note_for_communicative_algebra.pdf).
+* (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
+   - (Last updated 2023.3.2)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its application on Chern-Weil theory, and we may introduce some applications on spin bundle if time and interests permitted.
+   - (Last updated 2023.2.16)[Yang-Mills equations on Riemann surface](notes/2023Spring/YM_equations_on_Riemann_surface.pdf).
 * (2022Fall, done) Here are the lecture notes of talks I gave, in a seminar about Bott-tu's gtm82, which is organized by [chenglong yu](https://chenglongyu.github.io/),
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf)
    - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf)
-* (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
-   - (Last updated 2023.3.2[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its application on Chern-Weil theory, and we may introduce some applications on spin bundle if time and interests permitted.
-   - (Last updated 2023.2.16)[Yang-Mills equations on Riemann surface](notes/2023Spring/YM_equations_on_Riemann_surface.pdf).
-  
+ * (2022Summer, last updated 2023.1.30) Here is the draft of lecture note I typed for a seminar about [communicative algebra](notes/2022Summer/note_for_communicative_algebra.pdf).
 
 
 ### Course notes
@@ -40,7 +39,6 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 * (2023Spring, last updated 2023.2.26)
    - [Lecture notes](notes/2023Spring/Algebra2-H.pdf)
    - [Solutions to homework](notes/2023Spring/Sol_to_Algebra2-H.pdf)
-   
 * (2022Fall, done)Part solutions to homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
 * (2022Fall, last updated 2023.1.23)Lecture notes of [Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
 * (2022Spring, last updated 2023.2.13)Lecture notes of [Algebra0](notes/2023Spring/Algebra0.pdf)
