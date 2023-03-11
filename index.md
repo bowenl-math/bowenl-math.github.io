@@ -46,7 +46,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 ### Personal notes
 
 * (Last updated 2023.2.2)[Galois theory and its application](notes/personal notes/Galois_theory.pdf). I learnt quite a lot from a short course given by Yongquan Hu.
-* (Last updated 2023.3.8)[Complex geometry](notes/personal notes/Complex_geometry.pdf). I learnt quite a lot from  Xiaokui Yang, and  "Hodge theory and complex algebraic geometry" in 2022Spring, a course given by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#).
+* (Last updated 2023.3.11)[Complex geometry](notes/personal notes/Complex_geometry.pdf). I learnt quite a lot from  Xiaokui Yang, and  "Hodge theory and complex algebraic geometry" in 2022Spring, a course given by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#).
 
 ### Contact
 liubw22@mails.tsinghua.edu.cn
