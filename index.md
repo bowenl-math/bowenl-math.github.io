@@ -23,7 +23,7 @@ Hello, I'm Bowen Liu, just a lover of mathmatics(smile). I am quite interested i
 
 
 #### 2022Fall
-* (Last updated 2023.3.19)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
+* (Last updated 2023.4.10)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
 * (Done)[Partial differential equation](notes/2022Fall/pde.pdf), mainly followed standard textbook written by Evans.
 
 #### 2022Spring
