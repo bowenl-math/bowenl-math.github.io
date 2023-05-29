@@ -45,7 +45,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 ### Personal notes/slides
 
-* (2023Spring, last updated 2023.5.29)[The uniqueness of the K\"ahler structure of $\mathrm{CP}^n$](notes/personal notes/Final_report.pdf)
+* (2023Spring, last updated 2023.5.29)[The uniqueness of the K\"ahler structure of complex projective space](notes/personal notes/Final_report.pdf)
 
 
 ### Contact
