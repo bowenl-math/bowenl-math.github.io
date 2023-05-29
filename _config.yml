@@ -1,43 +1,29 @@
-title: Texture Theme
-author: GitHub User
-email: your-email@domain.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: /texture
+title:               Celeste
+url:                 https://nicoelayda.github.io
+baseurl:             ""
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+markdown:            kramdown
+highlighter:         rouge
+
+exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
+
+permalink:           pretty
+paginate:            5
+paginate_path:       /blog/:num
+
+blog:
+  truncated_preview: false
+
 sass:
-  sass_dir: _sass
+  sass_dir:          _sass
+  style:             :compressed
 
-permalink: /posts/:title/
-texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
-  style: black
-  showNav: false
-  showPicker: true
-
-  # generate social links in footer
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
-    rss: rss
- 
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
-# theme: texture
+author:
+  name:              Nico Elayda
+  url:               nicoelayda.github.io
+  email:             nico@elayda.com
 
 plugins:
-  - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-coffeescript
+  - jekyll-paginate
+  - jekyll-gist
