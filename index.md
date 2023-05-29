@@ -9,7 +9,7 @@ Hello, I'm Bowen Liu. I'm a Phd student in Mathematics Department of Tsinghua Un
 * (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
    - (Last updated 2023.5.27)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its application on Chern-Weil theory, and we may introduce some applications on spin bundle if time and interests permitted.
    - (Last updated 2023.2.16)[Yang-Mills equations on Riemann surface](notes/2023Spring/YM_equations_on_Riemann_surface.pdf).
-* (2022Fall, done) Here are the lecture notes of talks I gave, in a seminar about Bott-tu's gtm82, which is organized by [chenglong yu](https://chenglongyu.github.io/),
+* (2022Fall, done) Here are the lecture notes of talks I gave, in a seminar about Bott-tu's GTM82, which is organized by [chenglong yu](https://chenglongyu.github.io/),
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf)
    - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf)
  * (2022Summer, last updated 2023.1.30) Here is the draft of lecture note I typed for a seminar about [communicative algebra](notes/2022Summer/note_for_communicative_algebra.pdf).
@@ -18,7 +18,7 @@ Hello, I'm Bowen Liu. I'm a Phd student in Mathematics Department of Tsinghua Un
 ### Course notes
 
 #### 2023Spring
-* (Last updated 2023.4.2)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by Jian Xiao.
+* (Last updated 2023.4.2)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
 * (Last updated 2023.2.27)[GIT and moduli space of vector bundles](notes/2023Spring/Kempf_Ness.pdf), lectured by [Jiachoon Lee](https://jiachoonlee.github.io).
 
 
