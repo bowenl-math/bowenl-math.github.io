@@ -1,48 +1,43 @@
-# Setup
-title: Dark Poole
-url: https://getpoole.com
-paginate: 1
-baseurl: ""
-permalink: pretty
+title: Texture Theme
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: /texture
 
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
-
-# Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 sass:
   sass_dir: _sass
-  style: :compressed
 
-# Options
+permalink: /posts/:title/
+texture:
+  title: Adam Denisov
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
+  style: black
+  showNav: false
+  showPicker: true
 
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
+  # generate social links in footer
+  social_links:
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman
+    rss: rss
+ 
 
-# Specify the author for blog posts
-author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
 
-# Custom vars
-version: 3.0.0
+# Build settings
+# theme: texture
 
-# Navbar page list
-nav:
-  - title: Blog
-    url: /archive
-
-  - title: About
-    url: /about
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
