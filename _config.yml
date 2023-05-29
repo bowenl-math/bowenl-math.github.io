@@ -6,12 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Welcome to my homepage
+title: Bowen's Homepage
 description: 'A math lover' # write a nice description for your blog
 baseurl: '/cayman-blog' # the subpath of your site, e.g. /blog
 url: 'https://adueck.github.io' # the base hostname & protocol for your site http://www.example.com
 # google_analytics: 'UA-XXXXXX-X'
-mail_username: 'liubw22@mails.tsinghua.edu.cn'
 
 # Build settings
 markdown: kramdown
