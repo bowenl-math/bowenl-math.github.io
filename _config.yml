@@ -11,8 +11,6 @@ title: Bowen's Homepage
 # Build settings
 markdown: kramdown
 
-permalink: '/:title/'
-
 gems: [jekyll-paginate]
 
 paginate: 10
