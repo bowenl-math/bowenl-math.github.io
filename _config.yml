@@ -1,29 +1,46 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
-baseurl:             ""
+# Site Info
+title:              "The Plain"
+description:        "A minimalist Jekyll theme"
+author_name:        "Heiswayi Nrird" # change this to your name
+logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
 
-markdown:            kramdown
-highlighter:         rouge
+# Site Settings
+url:                https://heiswayi.github.io # main url
+baseurl:            /the-plain
+permalink:          /:title # Post permalink
+timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+social_share_previews: true
 
-exclude:             ['*.sublime-*', 'README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor/bundle']
-
-permalink:           pretty
-paginate:            5
-paginate_path:       /blog/:num
-
-blog:
-  truncated_preview: false
-
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
 sass:
-  sass_dir:          _sass
-  style:             :compressed
+    style:          :compressed
 
-author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
-
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
 plugins:
-  - jekyll-coffeescript
-  - jekyll-paginate
-  - jekyll-gist
+  - jekyll-sitemap
+
+
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"

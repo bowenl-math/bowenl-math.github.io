@@ -1,34 +1,31 @@
 ---
 layout: default
-title: Home
 ---
-<div class="page">
-  
-  <header>
-    <h1 class="landing-title">Hello, world!</h1>
-  </header>
-  
-  <div class="text-center">
-    <p>
-      <i class="fa fa-code-fork fa-3x"></i>
-    </p>
 
-    <p>
-      If you can see this, it means you've successfully set up 
-      <a href="https://github.com/nicoelayda/celeste">Celeste</a> in Jekyll!
-    </p>
+<section>
 
-    <p>
-      This is your landing page. It is the first page your users will see when 
-      they visit your website. Perhaps write a little bit about you or your 
-      website here.
-    </p>
+	{% for post in site.posts %}
+		{% unless post.next %}
+			<h3 class="code">{{ post.date | date: '%Y' }}</h3>
+		{% else %}
+			{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+			{% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+			{% if year != nyear %}
+				<h3 class="code">{{ post.date | date: '%Y' }}</h3>
+			{% endif %}
+		{% endunless %}
 
-    <p>
-      Feel free to dive right in and make your changes to the code!<br />
-      Or check out Celeste on <a href="https://github.com/nicoelayda/celeste">GitHub</a> 
-      to learn more.
-    </p>
-  </div>
-  
-</div>
+		<ul>
+			<li>
+				<div class="post-date code">
+					<span>{{ post.date | date: "%b %d" }}</span>
+				</div>
+				<div class="title">
+					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
+				</div>
+			</li>
+		</ul>
+
+	{% endfor %}
+
+</section>
