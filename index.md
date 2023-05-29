@@ -43,7 +43,9 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 * (2022Fall, last updated 2023.1.23)Lecture notes of [Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
 * (2022Spring, last updated 2023.2.13)Lecture notes of [Algebra0](notes/2023Spring/Algebra0.pdf)
 
-### Personal notes
+### Personal notes/slides
+
+* (2023Spring, last updated 2023.5.29)[The uniqueness of the K\"ahler structure of $\mathrm{CP}^n$](notes/personal notes/Final_report.pdf)
 
 
 ### Contact
