@@ -1,9 +1,8 @@
 ### Welcome to my homepage!
-
 Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua University from 2022, under the supervision of [chenglong yu](https://chenglongyu.github.io/). Nowadays I'm quite interested in the intersection of complex differential geometry and complex algebraic geometry.
 
-### Seminars
 
+### Seminars
 * (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
    - (Last updated 2023.5.27)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its application on Chern-Weil theory, and we may introduce some applications on spin bundle if time and interests permitted.
    - (Last updated 2023.2.16)[Yang-Mills equations on Riemann surface](notes/2023Spring/YM_equations_on_Riemann_surface.pdf).
@@ -14,26 +13,22 @@ Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua Univer
 
 
 ### Course notes
-
 #### 2023Spring
 * (Last updated 2023.4.2)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
 * (Last updated 2023.2.27)[GIT and moduli space of vector bundles](notes/2023Spring/Kempf_Ness.pdf), lectured by [Jiachoon Lee](https://jiachoonlee.github.io).
-
 
 #### 2022Fall
 * (Last updated 2023.5.13)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
 * (Done)[Partial differential equation](notes/2022Fall/pde.pdf), mainly followed standard textbook written by Evans.
 
 #### 2022Spring
-
 Here are some notes I typed during my study in enhanced program of BICMR in Peking University. 
-* (Done)[Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. Attention: There are still too many mistakes, typos and lack of logic. Maybe one day in future I will make it better, when I do need representation theory. 
+* (Done)[Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
 * (Done)[Riemann surface](notes/notes for enhanced program of BICMR/Riemann_surface.pdf), lectured by Xiaobo Liu.
 * (Done)[Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabing Ge.
 
 
 ### TA
-
 * (2023Spring)Algebra-2H
    - (last updated 2023.5.19)[Lecture notes](notes/2023Spring/Algebra2-H.pdf)
    - (last updated 2023.5.12)[Solutions to homework](notes/2023Spring/Sol_to_Algebra2-H.pdf)
@@ -41,8 +36,8 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 * (2022Fall, last updated 2023.1.23)Lecture notes of [Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
 * (2022Spring, last updated 2023.2.13)Lecture notes of [Algebra0](notes/2023Spring/Algebra0.pdf)
 
-### Personal notes/slides
 
+### Personal notes/slides
 * (2023Spring, last updated 2023.5.29)[The uniqueness of the K\"ahler structure of complex projective space](notes/personal notes/Final_report.pdf), a talk given in the final report of course "Advanced topics in complex geometry", lectured by Xiaokui Yang.
 
 
