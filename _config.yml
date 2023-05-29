@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+
+github:
+  production_url : null
