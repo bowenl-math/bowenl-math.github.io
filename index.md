@@ -1,6 +1,3 @@
-## Welcome to my homepage!
-
-
 ### Seminars
 
 * (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
