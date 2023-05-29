@@ -1,46 +1,23 @@
-# Site Info
-title:              "The Plain"
-description:        "A minimalist Jekyll theme"
-author_name:        "Heiswayi Nrird" # change this to your name
-logo_url:           https://avatars0.githubusercontent.com/u/13794983?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site Settings
-url:                https://heiswayi.github.io # main url
-baseurl:            /the-plain
-permalink:          /:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
-social_share_previews: true
+# Site settings
+title: Your Blog Title
+description: '' # write a nice description for your blog
+baseurl: '/cayman-blog' # the subpath of your site, e.g. /blog
+url: 'https://adueck.github.io' # the base hostname & protocol for your site http://www.example.com
+# google_analytics: 'UA-XXXXXX-X'
+twitter_username: 'twitter_username'
 
-# Site Build
-highlighter:        rouge
-markdown:           kramdown
-kramdown:
-    input:          GFM
-sass:
-    style:          :compressed
+# Build settings
+markdown: kramdown
 
-# Other Params
-include:            [ "robots.txt" ]
-exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script" ]
-plugins:
-  - jekyll-sitemap
+permalink: '/:title/'
 
+gems: [jekyll-paginate]
 
-
-defaults:
-  -
-    scope:
-      path:         ""
-    values:
-      layout:       "null"
-  -
-    scope:
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      type:         "posts"
-    values:
-      layout:       "post"
+paginate: 10

@@ -1,28 +1,17 @@
 ---
 layout: default
 ---
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-<article>
+    <div class="main-content" itemprop="articleBody">
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+   <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
 
-	<div class="center">
-		<h1 class="title">{{ page.title }}</h1>
-		<time class="code">{{ page.date | date: '%B %-d, %Y' }}</time>
-	</div>
+    {{ content }}
+  </div>
 
-	<div class="divider"></div>
-
-	{{ content }}
+<a href="{{ site.url }}{{ site.baseurl }}"><h3 style="text-align: center;">- to blog -</h3></a>
 
 </article>
-
-<div class="page-navigation code">
-	{% if page.next.url %}
-    <a class="next" href="{{ page.next.url | prepend: site.baseurl | prepend: site.url }}" title="NEXT: {{page.next.title}}">&lt;&lt;</a>
-		<span> &middot; </span>
-  {% endif %}
-		<a class="home" href="{{ "/" | prepend: site.baseurl | prepend: site.url }}" title="Back to Index">Index</a>
-  {% if page.previous.url %}
-		<span> &middot; </span>
-    <a class="prev" href="{{ page.previous.url | prepend: site.baseurl | prepend: site.url }}" title="PREV: {{page.previous.title}}">&gt;&gt;</a>
-  {% endif %}
-</div>
