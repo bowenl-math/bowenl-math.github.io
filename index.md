@@ -47,6 +47,4 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 
 ### Contact
-liubw22@mails.tsinghua.edu.cn
-
-Please contact me if you find any mistake in my notes! Thanks in advance.
+liubw22@mails.tsinghua.edu.cn. Please contact me if you find any mistake in my notes! Thanks in advance.
