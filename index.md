@@ -4,7 +4,7 @@ Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua Univer
 
 ### Seminars
 * (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
-   - (Last updated 2023.5.27)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory, and we may introduce some applications on spin bundle if time and interests permitted.
+   - (Last updated 2023.6.4)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory, and we may introduce some applications on spin bundle if time and interests permitted.
    - (Last updated 2023.2.16)[Yang-Mills equations on Riemann surface](notes/2023Spring/YM_equations_on_Riemann_surface.pdf).
 * (2022Fall, done) Here are the lecture notes of talks I gave, in a seminar about Bott-tu's GTM82, which is organized by [chenglong yu](https://chenglongyu.github.io/),
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf)
