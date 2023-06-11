@@ -32,7 +32,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 * (2023Spring)Algebra-2H
    - (last updated 2023.6.2)[Lecture notes](notes/2023Spring/Algebra2-H.pdf)
    - (done)[Solutions to homework1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf)
-   - (last updated 2023.6.2)[Solutions to homework9/11](notes/2023Spring/Solutions(9_11).pdf)
+   - (last updated 2023.6.2)[Solutions to homework9/11/13](notes/2023Spring/Solutions(9_11_13).pdf)
 * (2022Fall, done)Part solutions to homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
 * (2022Fall, last updated 2023.1.23)Lecture notes of [Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
 * (2022Spring, last updated 2023.2.13)Lecture notes of [Algebra0](notes/2023Spring/Algebra0.pdf)
