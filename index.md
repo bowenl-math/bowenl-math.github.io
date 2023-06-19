@@ -39,7 +39,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 
 ### Personal notes/slides
-* (2023Spring)Here are the note and slides for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
+* (2023Spring)Here are note and slides for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
    - [note](notes/personal notes/Uniqueness_CPn/note.pdf)
    - [slides](notes/personal notes/Uniqueness_CPn/slides.pdf)
 * (2023Spring, last updated 2023.6.18)[A quick review of toplogy](notes/personal notes/Review_of_topology.pdf).
