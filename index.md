@@ -15,7 +15,6 @@ Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua Univer
 ### Course notes
 #### 2023Spring
 * (Last updated 2023.4.2)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
-* (Last updated 2023.2.27)[GIT and moduli space of vector bundles](notes/2023Spring/Kempf_Ness.pdf), lectured by [Jiachoon Lee](https://jiachoonlee.github.io).
 
 #### 2022Fall
 * (Last updated 2023.6.10)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
