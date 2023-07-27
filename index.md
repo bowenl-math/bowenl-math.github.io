@@ -2,7 +2,7 @@
 Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua University from Sept 2022, under the supervision of [chenglong yu](https://chenglongyu.github.io/). Nowadays I'm quite interested in the intersection of complex differential geometry and complex algebraic geometry.
 
 ### Contact
-liubw22[at]mails[dot]tsinghua[dot]edu[dot]cn. Please contact me if you find any mistake in my notes! Thanks in advance.
+liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you find any mistake in my notes! Thanks in advance.
 
 ### Seminars
 * (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
