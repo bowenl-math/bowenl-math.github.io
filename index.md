@@ -1,8 +1,6 @@
 ### Welcome to my homepage!
 Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua University from Sept 2022, under the supervision of [chenglong yu](https://chenglongyu.github.io/). Nowadays I'm quite interested in the intersection of complex differential geometry and complex algebraic geometry.
 
-### Contact
-liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you find any mistake in my notes! Thanks in advance.
 
 ### Seminars
 * (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
@@ -46,3 +44,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 * (2023Spring)Here are note and slides for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
    - [note](notes/personal notes/Review_of_topology/note.pdf)
    - [slides](notes/personal notes/Review_of_topology/slides.pdf)
+   
+   
+### Contact
+liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you find any mistake in my notes! Thanks in advance.
