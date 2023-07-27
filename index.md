@@ -1,6 +1,8 @@
 ### Welcome to my homepage!
 Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua University from Sept 2022, under the supervision of [chenglong yu](https://chenglongyu.github.io/). Nowadays I'm quite interested in the intersection of complex differential geometry and complex algebraic geometry.
 
+### Contact
+liubw22[at]mails[dot]tsinghua[dot]edu[dot]cn. Please contact me if you find any mistake in my notes! Thanks in advance.
 
 ### Seminars
 * (2023Spring) Here is the draft of lecture note I typed for a seminar about Yang-Mills equations on Riemann surface , which is organized by myself.
@@ -17,7 +19,7 @@ Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua Univer
 * (Last updated 2023.4.2)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
 
 #### 2022Fall
-* (Last updated 2023.6.10)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
+* (Last updated 2023.7.27)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
 * (Done)[Partial differential equation](notes/2022Fall/pde.pdf), mainly followed standard textbook written by Evans.
 
 #### 2022Spring
@@ -41,10 +43,6 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 * (2023Spring)Here are note and slides for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
    - [note](notes/personal notes/Uniqueness_CPn/note.pdf)
    - [slides](notes/personal notes/Uniqueness_CPn/slides.pdf)
-* (2023Spring)Here are note and slides for a review of topology frequently used in geometry.
+* (2023Spring)Here are note and slides for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
    - [note](notes/personal notes/Review_of_topology/note.pdf)
    - [slides](notes/personal notes/Review_of_topology/slides.pdf)
-
-
-### Contact
-liubw22@mails.tsinghua.edu.cn. Please contact me if you find any mistake in my notes! Thanks in advance.
