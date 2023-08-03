@@ -12,6 +12,16 @@ Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua Univer
  * (2022Summer, last updated 2023.1.30) Here is the draft of lecture note I typed for a seminar about [communicative algebra](notes/2022Summer/note_for_communicative_algebra.pdf).
 
 
+### Personal notes/slides
+* (Last updated 2023.8.3)[Complex geometry I](notes/personal notes/Complex_geometry_I/.pdf). It's a lecture note about complex differential geometry. The initial draft of this note is taken in 2022Spring, in the course about Hodge theory taught by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#), and that's my first time to learn this beautiful theory. Later in 2023Spring I added more useful techniques and advanced topics (such as Schwarz computations, Calabi-Yau theorem and so on) I learnt in the course “advanced topics in complex geometry" given by Xiaokui Yang. I also added some other materials from classical books to make this note self-contained.
+* (2023Spring)Here are note and slides for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
+   - [note](notes/personal notes/Uniqueness_CPn/note.pdf)
+   - [slides](notes/personal notes/Uniqueness_CPn/slides.pdf)
+* (2023Spring)Here are note and slides for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
+   - [note](notes/personal notes/Review_of_topology/note.pdf)
+   - [slides](notes/personal notes/Review_of_topology/slides.pdf)
+
+
 ### Course notes
 #### 2023Spring
 * (Last updated 2023.4.2)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
@@ -35,15 +45,6 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 * (2022Fall, done)Part solutions to homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
 * (2022Fall, last updated 2023.1.23)Lecture note of [Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
 * (2022Spring, last updated 2023.2.13)Lecture note of [Algebra0](notes/2023Spring/Algebra0.pdf)
-
-
-### Personal notes/slides
-* (2023Spring)Here are note and slides for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
-   - [note](notes/personal notes/Uniqueness_CPn/note.pdf)
-   - [slides](notes/personal notes/Uniqueness_CPn/slides.pdf)
-* (2023Spring)Here are note and slides for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
-   - [note](notes/personal notes/Review_of_topology/note.pdf)
-   - [slides](notes/personal notes/Review_of_topology/slides.pdf)
    
    
 ### Contact
