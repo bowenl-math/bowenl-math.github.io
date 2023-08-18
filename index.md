@@ -36,7 +36,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 ### TA
 * (2023Spring)
-   - (last updated 2023.8.18)Lecture note of [Algebra-2H](notes/2023Spring/Algebra2-H.pdf)
+   - (last updated 2023.8.18)Lecture note of [Algebra-2H](notes/2023Spring/Algebra2-H.pdf), Shihao Wang also made a contribution to the Chapter11 of this note.
    - (done)[Solutions to homework1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf)
    - (done)[Solutions to homework9/11/13](notes/2023Spring/Solutions(9_11_13).pdf)
 * (2022Fall, done)Part solutions to homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
