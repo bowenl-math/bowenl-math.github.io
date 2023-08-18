@@ -14,12 +14,9 @@ Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua Univer
 
 ### Personal notes/slides
 * (Last updated 2023.8.3)[Complex geometry I](notes/personal notes/Complex_geometry_I/Complex_geometry_I.pdf). It's a lecture note about complex differential geometry. The initial draft of this note is taken in 2022Spring, in the course about Hodge theory taught by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#), and that's my first time to learn this beautiful theory. Later in 2023Spring I added more useful techniques and advanced topics (such as Schwarz computations, Calabi-Yau theorem and so on) I learnt in the course “advanced topics in complex geometry" given by Xiaokui Yang. I also added some other materials from classical books to make this note self-contained.
-* (2023Spring)Here are note and slides for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
-   - [note](notes/personal notes/Uniqueness_CPn/note.pdf)
-   - [slides](notes/personal notes/Uniqueness_CPn/slides.pdf)
-* (2023Spring)Here are note and slides for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
-   - [note](notes/personal notes/Review_of_topology/note.pdf)
-   - [slides](notes/personal notes/Review_of_topology/slides.pdf)
+* (2023Spring)Here are [note](notes/personal notes/Uniqueness_CPn/note.pdf) and [slides](notes/personal notes/Uniqueness_CPn/slides.pdf) for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
+* (2023Spring)Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
+* (2023Spring)Here are [note](notes/personal notes/Symmetric_space/note.pdf) and [slides](notes/personal notes/Symmetric_space/slides.pdf) for a brief introduction about symmetric spaces, discussed with Zhiyao Xiong, Zhitong Chen.
 
 
 ### Course notes
