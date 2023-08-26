@@ -3,7 +3,7 @@ Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua Univer
 
 
 ### Seminars
-* (2023Fall, last updated 2023/08/26)[Toric variety](note/2023Fall/toric_variety.pdf).
+* (2023Fall, last updated 2023/08/26)[Toric variety](notes/2023Fall/toric_variety.pdf).
 * (2023Spring, last updated 2023/06/04)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory, and we may introduce some applications on spin bundle if time and interests permitted.
 * (2022Fall, done) Here are the lecture notes of talks I gave, in a seminar about Bott-tu's GTM82, which is organized by [chenglong yu](https://chenglongyu.github.io/),
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf)
