@@ -4,8 +4,8 @@ Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua Univer
 
 ### Seminars
 * (2023Fall, last updated 2023/08/26)[Toric variety](notes/2023Fall/toric_variety.pdf).
-* (2023Spring, last updated 2023/06/04)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory, and we may introduce some applications on spin bundle if time and interests permitted.
-* (2022Fall, done) Here are the lecture notes of talks I gave, in a seminar about Bott-tu's GTM82, which is organized by [chenglong yu](https://chenglongyu.github.io/),
+* (2023Spring)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory.
+* (2022Fall) Here are the lecture notes of talks I gave in a seminar about Bott-tu's GTM82, which is organized by [chenglong yu](https://chenglongyu.github.io/),
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf)
    - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf)
  * (2022Summer, last updated 2023/01/30) Here is the draft of lecture note I typed for a seminar about [communicative algebra](notes/2022Summer/note_for_communicative_algebra.pdf).
@@ -24,22 +24,22 @@ Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua Univer
 
 #### 2022Fall
 * (Last updated 2023/07/27)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
-* (Done)[Partial differential equation](notes/2022Fall/pde.pdf), mainly followed standard textbook written by Evans.
+* [Partial differential equation](notes/2022Fall/pde.pdf), mainly followed standard textbook written by Evans.
 
 #### 2022Spring
 Here are some notes I typed during my study in enhanced program of BICMR in Peking University. 
-* (Done)[Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
-* (Done)[Riemann surface](notes/notes for enhanced program of BICMR/Riemann_surface.pdf), lectured by Xiaobo Liu.
-* (Done)[Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabing Ge.
+* [Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
+* [Riemann surface](notes/notes for enhanced program of BICMR/Riemann_surface.pdf), lectured by Xiaobo Liu.
+* [Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabing Ge.
 
 
 ### TA
 * (2023Fall)Algebra1
 * (2023Spring)
    - (last updated 2023/08/18)Lecture note of [Algebra-2H](notes/2023Spring/Algebra2-H.pdf), Shihao Wang also made a contribution to the Chapter11 of this note.
-   - (done)[Solutions to homework1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf)
-   - (done)[Solutions to homework9/11/13](notes/2023Spring/Solutions(9_11_13).pdf)
-* (2022Fall, done)Part solutions to homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
+   - [Solutions to homework1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf)
+   - [Solutions to homework9/11/13](notes/2023Spring/Solutions(9_11_13).pdf)
+* (2022Fall)Part solutions to homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf)
 * (2022Fall, last updated 2023/01/23)Lecture note of [Algebra1-H](notes/2022Fall/Algebra1-H.pdf)
 * (2022Spring, last updated 2023/02/13)Lecture note of [Algebra0](notes/2023Spring/Algebra0.pdf)
    
