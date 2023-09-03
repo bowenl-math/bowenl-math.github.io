@@ -46,7 +46,7 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
    
 ### Travel
 * Jul 12 - Jul 22, 2021, [Number theory summer school](https://math.xjtu.edu.cn/info/1089/10637.htm), Xi’an Jiaotong University, Xi'an, China.
-* Jul 31 - Aug 5, 2022, [ICCM](http://iccm.tsinghua.edu.cn/iccm2022/#/), Tsinghua University, Nanjing, China.
+* Jul 31 - Aug 5, 2022, [ICCM2022](http://iccm.tsinghua.edu.cn/iccm2022/#/), Tsinghua University and Southeast University, Nanjing, China.
 * Jul 10 - Jul 21, 2023, [International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/4503/5820.htm), Fudan University, Shanghai, China.
 * Aug 9 - Aug 13, 2023, [Workshop for algebraic geometry and complex geometry](https://tmcc.whu.edu.cn/info/1206/2689.htm), Wuhan University, Wuhan, China.
 
