@@ -1,5 +1,5 @@
 ### Welcome to my homepage!
-Hello, I'm Bowen Liu, a Phd student in Mathematics Department of Tsinghua University from Sept 2022, under the supervision of [chenglong yu](https://chenglongyu.github.io/). My research interest lies in the intersection of complex differential geometry and complex algebraic geometry. Nowadays I'm learning some basic theories of toric varieties.
+Hello, I'm Bowen Liu, a PhD student in Mathematics Department of Tsinghua University from Sept 2022, under the supervision of [chenglong yu](https://chenglongyu.github.io/). My research interest lies in the intersection of complex differential geometry and complex algebraic geometry. Nowadays I'm learning some basic theories of toric varieties.
 
 
 ### Seminars
