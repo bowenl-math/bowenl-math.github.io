@@ -1,5 +1,7 @@
 ### Welcome to my homepage!
-Hello, I'm Bowen Liu, a PhD student in Mathematics Department of Tsinghua University from Sept 2022, under the supervision of [chenglong yu](https://chenglongyu.github.io/). My research interest lies in the intersection of complex differential geometry and complex algebraic geometry.  Here is my email: liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you find any mistake in my notes or have any advice, and thanks in advance
+Hello, I'm Bowen Liu, a PhD student in Mathematics Department of Tsinghua University from Sept 2022, under the supervision of [chenglong yu](https://chenglongyu.github.io/). My research interest lies in the intersection of complex differential geometry and complex algebraic geometry.  
+
+Here is my email: liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you find any mistake in my notes or have any advice, and thanks in advance
 
 
 ### Seminars
