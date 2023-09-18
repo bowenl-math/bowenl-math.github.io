@@ -16,12 +16,12 @@ Here is my email: liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you f
 
 
 ### Personal notes/slides
-* (Last updated 2023/09/18)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf)It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall
-* (Last updated 2023/09/12)[Symmetric space](notes/personal notes/Symmetric_space/note.pdf).
+* (Last updated 2023/09/18)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
+* (Last updated 2023/09/12)[Symmetric space](notes/personal notes/Symmetric_space/note.pdf). It's a note I typed about symmetric space, and the main reference is the [standard textbook](https://books.google.com.hk/books/about/Differential_Geometry_Lie_Groups_and_Sym.html?id=DWGvsa6bcuMC&redir_esc=y) written by Sigurdur Helgason.
 * (2023/06/27)Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
 * (2023/06/08)Here are [note](notes/personal notes/Uniqueness_CPn/note.pdf) and [slides](notes/personal notes/Uniqueness_CPn/slides.pdf) for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
 * (Last updated 2023/08/03)[Complex geometry I](notes/personal notes/Complex_geometry_I/Complex_geometry_I.pdf). It's a lecture note about complex differential geometry. The initial draft of this note is taken in 2022Spring, in the course about Hodge theory taught by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#), and that's my first time to learn this beautiful theory. Later in 2023Spring I added more useful techniques and advanced topics (such as Schwarz computations, Calabi-Yau theorem and so on) I learnt in the course “advanced topics in complex geometry" given by Xiaokui Yang. I also added some other materials from classical books to make this note self-contained.
-* [Partial differential equation](notes/2022Fall/pde.pdf), it's a note I typed when I'm learning PDE in 2022Fall, and it's mainly followed the standard textbook written by Evans.
+* (2022Fall)[Partial differential equation](notes/2022Fall/pde.pdf), it's a note I typed when I'm learning PDE, and it's mainly followed the [standard textbook](https://books.google.com.hk/books/about/Partial_Differential_Equations.html?id=Xnu0o_EJrCQC&redir_esc=y) written by Evans.
 
 
 ### Course notes
