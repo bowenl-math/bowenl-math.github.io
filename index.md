@@ -26,7 +26,7 @@ Here is my email: liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you f
 
 ### Course notes
 #### 2023Fall
-*(Last updated 2023/09/18)[Topics in complex algebraic geometry](note/2023Fall/topics_in_complex_algebraic_geometry.pdf), lectured by [Mao Sheng](http://staff.ustc.edu.cn/~msheng/).
+* (Last updated 2023/09/18)[Topics in complex algebraic geometry](note/2023Fall/topics_in_complex_algebraic_geometry.pdf), lectured by [Mao Sheng](http://staff.ustc.edu.cn/~msheng/).
 
 #### 2023Spring
 * (Last updated 2023/04/02)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
