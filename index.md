@@ -9,7 +9,7 @@ Here is my email: liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you f
    - [syllabus](notes/2023Fall/toric/syllabus.pdf).
    - [notes](notes/2023Fall/toric/toric_variety.pdf) of talks I gave.
 * (2023Spring)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory.
-* (2022Fall) Here are the lecture notes of talks I gave in a seminar about Bott-tu's GTM82, which is organized by [chenglong yu](https://chenglongyu.github.io/),
+* (2022Fall) Here are the lecture notes of talks I gave in a seminar about Bott-tu's [GTM82](https://link.springer.com/book/10.1007/978-1-4757-3951-0), which is organized by [chenglong yu](https://chenglongyu.github.io/),
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf).
    - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf).
  * (2022Summer, last updated 2023/01/30) Here is the draft of lecture note I typed for a seminar about [communicative algebra](notes/2022Summer/note_for_communicative_algebra.pdf).
