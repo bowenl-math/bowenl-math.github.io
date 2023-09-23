@@ -16,7 +16,7 @@ Here is my email: liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you f
 
 
 ### Personal notes/slides
-* (2023/09/22)[Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvature_of_metrics_on_Lie_group). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's paper ["Curvatures of left invariant metrics on Lie groups"](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
+* (2023/09/22)[Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvature_of_metrics_on_Lie_group). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
 * (Last updated 2023/09/18)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
 * (Last updated 2023/09/12)[Symmetric space](notes/personal notes/Symmetric_space/note.pdf). It's a note I typed about symmetric space, and the main reference is the [standard textbook](https://books.google.com.hk/books/about/Differential_Geometry_Lie_Groups_and_Sym.html?id=DWGvsa6bcuMC&redir_esc=y) written by Sigurdur Helgason.
 * (2023/06/27)Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
