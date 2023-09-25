@@ -17,7 +17,7 @@ Here is my email: liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you f
 
 ### Personal notes/slides
 * (2023/09/22)[Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvature_of_metrics_on_Lie_group/Curvatures_of_Lie_group.pdf). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
-* (Last updated 2023/09/18)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
+* (Last updated 2023/09/25)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
 * (Last updated 2023/09/12)[Symmetric space](notes/personal notes/Symmetric_space/note.pdf). It's a note I typed about symmetric space, and the main reference is the [standard textbook](https://books.google.com.hk/books/about/Differential_Geometry_Lie_Groups_and_Sym.html?id=DWGvsa6bcuMC&redir_esc=y) written by Sigurdur Helgason.
 * (2023/06/27)Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
 * (2023/06/08)Here are [note](notes/personal notes/Uniqueness_CPn/note.pdf) and [slides](notes/personal notes/Uniqueness_CPn/slides.pdf) for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
@@ -27,7 +27,7 @@ Here is my email: liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you f
 
 ### Course notes
 * (2023Fall, last updated 2023/09/24)[Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [chenglong yu](https://chenglongyu.github.io/).
-* (2023Fall, last updated 2023/09/18)[Topics in complex algebraic geometry](notes/2023Fall/topics_in_complex_algebraic_geometry.pdf), lectured by [Mao Sheng](http://staff.ustc.edu.cn/~msheng/).
+* (2023Fall, last updated 2023/09/25)[Topics in complex algebraic geometry](notes/2023Fall/topics_in_complex_algebraic_geometry.pdf), lectured by [Mao Sheng](http://staff.ustc.edu.cn/~msheng/).
 * (2023Spring, last updated 2023/04/02)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
 * (2022Fall, last updated 2023/07/27)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
 
