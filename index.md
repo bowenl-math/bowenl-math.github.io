@@ -5,8 +5,8 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 
 ### Seminars
-* (2023Fall, last updated 2023/08/26)There is a seminar every Saturday, at B719 of Shuangqing, organized by Shengyu Hou, Chenchen Zuo, and me about toric variety. Here is the [syllabus](notes/2023Fall/toric/syllabus.pdf).
-   - [Lecture1,09/23](notes/2023Fall/toric/0923.pdf).
+* (2023Fall)There is a seminar every Saturday, at B719 of Shuangqing, organized by Shengyu Hou, Chenchen Zuo, and me about toric variety. Here is the [syllabus](notes/2023Fall/toric/syllabus.pdf).
+   - (09/23)[Lecture1](notes/2023Fall/toric/0923.pdf).
 * (2023Spring)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory.
 * (2022Fall) Here are the lecture notes of talks I gave in a seminar about Bott-Tu's [GTM82](https://link.springer.com/book/10.1007/978-1-4757-3951-0), which is organized by [chenglong yu](https://chenglongyu.github.io/),
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf).
@@ -15,17 +15,20 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 
 ### Personal notes/slides
+#### Notes
+* (Last updated 2023/09/12)[Symmetric space](notes/personal notes/Symmetric_space/note.pdf). It's a note I typed about symmetric space, and the main reference is the [textbook](https://books.google.com.hk/books/about/Differential_Geometry_Lie_Groups_and_Sym.html?id=DWGvsa6bcuMC&redir_esc=y) written by Sigurdur Helgason.
+* (Last updated 2023/08/03)[Complex geometry I](notes/personal notes/Complex_geometry_I/Complex_geometry_I.pdf). It's a lecture note about complex differential geometry. The initial draft of this note is taken in 2022Spring, in the course about Hodge theory taught by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#), and that's my first time to learn this beautiful theory. Later in 2023Spring I added more useful techniques and advanced topics (such as Schwarz computations, Calabi-Yau theorem and so on) I learnt in the course “advanced topics in complex geometry" given by Xiaokui Yang. I also added some other materials from classical books to make this note self-contained.
+* (2022Fall)[Partial differential equation](notes/2022Fall/pde.pdf), it's a note I typed when I'm learning PDE, and it's mainly followed the [textbook](https://books.google.com.hk/books/about/Partial_Differential_Equations.html?id=Xnu0o_EJrCQC&redir_esc=y) written by Evans.
+
+#### Slides
 * (2023/09/22)[Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvature_of_metrics_on_Lie_group/Curvatures_of_Lie_group.pdf). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
-* (Last updated 2023/09/25)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
-* (Last updated 2023/09/12)[Symmetric space](notes/personal notes/Symmetric_space/note.pdf). It's a note I typed about symmetric space, and the main reference is the [standard textbook](https://books.google.com.hk/books/about/Differential_Geometry_Lie_Groups_and_Sym.html?id=DWGvsa6bcuMC&redir_esc=y) written by Sigurdur Helgason.
 * (2023/06/27)Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
 * (2023/06/08)Here are [note](notes/personal notes/Uniqueness_CPn/note.pdf) and [slides](notes/personal notes/Uniqueness_CPn/slides.pdf) for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
-* (Last updated 2023/08/03)[Complex geometry I](notes/personal notes/Complex_geometry_I/Complex_geometry_I.pdf). It's a lecture note about complex differential geometry. The initial draft of this note is taken in 2022Spring, in the course about Hodge theory taught by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#), and that's my first time to learn this beautiful theory. Later in 2023Spring I added more useful techniques and advanced topics (such as Schwarz computations, Calabi-Yau theorem and so on) I learnt in the course “advanced topics in complex geometry" given by Xiaokui Yang. I also added some other materials from classical books to make this note self-contained.
-* (2022Fall)[Partial differential equation](notes/2022Fall/pde.pdf), it's a note I typed when I'm learning PDE, and it's mainly followed the [standard textbook](https://books.google.com.hk/books/about/Partial_Differential_Equations.html?id=Xnu0o_EJrCQC&redir_esc=y) written by Evans.
 
 
 ### Course notes
 * (2023Fall, last updated 2023/09/24)[Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [chenglong yu](https://chenglongyu.github.io/).
+* (Last updated 2023/09/25)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
 * (2023Fall, last updated 2023/09/25)[Topics in complex algebraic geometry](notes/2023Fall/topics_in_complex_algebraic_geometry.pdf), lectured by [Mao Sheng](http://staff.ustc.edu.cn/~msheng/).
 * (2023Spring, last updated 2023/04/02)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
 * (2022Fall, last updated 2023/07/27)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
