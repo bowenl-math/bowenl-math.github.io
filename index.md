@@ -1,13 +1,12 @@
 ### Welcome to my homepage!
 Hello, I'm Bowen Liu, a PhD student in Mathematics Department of Tsinghua University from Sept 2022, under the supervision of [chenglong yu](https://chenglongyu.github.io/). My research interest lies in the intersection of complex differential geometry and complex algebraic geometry.  
 
-Here is my email: liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you find any mistake in my notes or have any advice, and thanks in advance
+Here is my email: liubw22 [at] mails.tsinghua.edu.cn. Please contact me if you find any mistake in my notes or have any advice, and thanks in advance.
 
 
 ### Seminars
-* (2023Fall, last updated 2023/08/26)There is a seminar organized by Shengyu Hou, Chenchen Zuo and me about toric variety.
-   - [syllabus](notes/2023Fall/toric/syllabus.pdf).
-   - [notes](notes/2023Fall/toric/toric_variety.pdf) of talks I gave.
+* (2023Fall, last updated 2023/08/26)There is a seminar every Saturday, at B719 of Shuangqing, organized by Shengyu Hou, Chenchen Zuo, and me about toric variety. Here is the [syllabus](notes/2023Fall/toric/syllabus.pdf).
+   - [Lecture1,09/23](notes/2023Fall/toric/0923.pdf).
 * (2023Spring)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory.
 * (2022Fall) Here are the lecture notes of talks I gave in a seminar about Bott-Tu's [GTM82](https://link.springer.com/book/10.1007/978-1-4757-3951-0), which is organized by [chenglong yu](https://chenglongyu.github.io/),
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf).
