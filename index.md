@@ -5,7 +5,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 
 ### Seminars
-* (2023Fall)There is a seminar every Saturday, at B719 of Shuangqing Complex Building A, organized by Shengyu Hou, Chenchen Zuo, and me about toric variety. Here is the [syllabus](notes/2023Fall/toric/syllabus.pdf).
+* (2023Fall)There is a seminar every Saturday 19:00--21:00, at B719 of Shuangqing Complex Building A, organized by Shengyu Hou, Chenchen Zuo, and me about toric variety. Here is the [syllabus](notes/2023Fall/toric/syllabus.pdf).
    - (09/23)[Lecture1](notes/2023Fall/toric/0923.pdf).
 * (2023Spring)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory.
 * (2022Fall) Here are the lecture notes of talks I gave in a seminar about Bott-Tu's [GTM82](https://link.springer.com/book/10.1007/978-1-4757-3951-0), which is organized by [chenglong yu](https://chenglongyu.github.io/),
