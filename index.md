@@ -21,7 +21,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 * (2022Fall)[Partial differential equation](notes/2022Fall/pde.pdf), it's a note I typed when I'm learning PDE, and it's mainly followed the [textbook](https://books.google.com.hk/books/about/Partial_Differential_Equations.html?id=Xnu0o_EJrCQC&redir_esc=y) written by Evans.
 
 #### Slides
-* (2023/09/22)[Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvature_of_metrics_on_Lie_group/Curvatures_of_Lie_group.pdf). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
+* (2023/09/22)[Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvatures_of_Lie_group.pdf). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
 * (2023/06/27)Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
 * (2023/06/08)Here are [note](notes/personal notes/Uniqueness_CPn/note.pdf) and [slides](notes/personal notes/Uniqueness_CPn/slides.pdf) for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
 
