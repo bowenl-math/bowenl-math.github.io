@@ -16,15 +16,11 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 ### Course notes
 * (2023Fall, last updated 2023/12/10)[Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [chenglong yu](https://chenglongyu.github.io/).
 * (2023Fall, last updated 2023/12/10)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
-* (2023Fall, last updated 2023/11/16)[Draft of Topics in complex algebraic geometry](notes/2023Fall/topics_in_complex_algebraic_geometry.pdf), lectured by [Mao Sheng](http://staff.ustc.edu.cn/~msheng/).
+* (2023Fall, last updated 2023/11/16)[Draft of Topics in complex algebraic geometry](notes/2023Fall/topics_in_complex_algebraic_geometry.pdf), lectured by [Mao Sheng].
 * (2023Spring, last updated 2023/04/02)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
 * (2022Fall, last updated 2023/07/27)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
-
-#### 2022Spring
-Here are some notes I typed during my study in enhanced program of BICMR in Peking University. 
-* [Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
-* [Riemann surface](notes/notes for enhanced program of BICMR/Riemann_surface.pdf), lectured by Xiaobo Liu.
-* [Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabing Ge.
+* (2022Spring, BICMR)[Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
+* (2022Spring, BICMR)[Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabing Ge.
 
 
 ### Personal notes/slides
@@ -40,11 +36,11 @@ Here are some notes I typed during my study in enhanced program of BICMR in Peki
 
 
 ### TA
-* (2023Fall)Algebra1
+* (2023Fall)Solutions of homework of [Algebra1](notes/2023Fall/Solutions_to_HW.pdf)
 * (2023Spring, last updated 2023/08/18)Lecture note of [Algebra-2H](notes/2023Spring/Algebra2-H.pdf), Shihao Wang also made a contribution to the Chapter11 of this note.
    - [Solutions to homework 1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf).
    - [Solutions to homework 9/11/13](notes/2023Spring/Solutions(9_11_13).pdf).
-* (2022Fall)Solutions to part of homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf).
+* (2022Fall)Solutions of homework of [Abstract algebra](notes/2022Fall/Sol_to_abstract_algebra.pdf).
 * (2022Fall, last updated 2023/01/23)Lecture note of [Algebra1-H](notes/2022Fall/Algebra1-H.pdf).
 * (2022Spring, last updated 2023/02/13)Lecture note of [Algebra0](notes/2023Spring/Algebra0.pdf).
    
