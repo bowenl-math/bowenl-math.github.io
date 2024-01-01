@@ -45,7 +45,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
    
    
 ### Travel
-* Jan 22 - Jan 26, 2024 [Winter School on Homogeneous Dynamics](https://scms.fudan.edu.cn/info/4503/6035.htm), Fudan University, Shanghai, China.
+* Jan 22 - Jan 26, 2024, [Winter School on Homogeneous Dynamics](https://scms.fudan.edu.cn/info/4503/6035.htm), Fudan University, Shanghai, China.
 * Jan 14 - Jan 19, 2024, [Tsinghua-Tokyo workshop on Calabi-Yau](https://indico.ipmu.jp/event/422/), IPMU, Tokyo, Japan.
 * Dec 22 - Dec 26, 2023, [Workshop on algebraic geometry](http://www.tsimf.cn/meeting/detail?id=360), TSIMF, Sanya, China.
 * Aug 9 - Aug 13, 2023, [Workshop for algebraic geometry and complex geometry](https://tmcc.whu.edu.cn/info/1206/2689.htm), Wuhan University, Wuhan, China.
