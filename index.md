@@ -14,7 +14,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 ### Course notes
 * (2023Fall)[Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [chenglong yu](https://chenglongyu.github.io/).
-* (2023Fall, last updated 2023/12/19)[Draft of Topics in complex algebraic geometry](notes/2023Fall/topics_in_complex_algebraic_geometry.pdf), lectured by Mao Sheng.
+* (2023Fall, last updated 2023/12/19)[Draft of Topics in complex algebraic geometry](notes/2023Fall/topics_in_cag.pdf), lectured by Mao Sheng.
 * (2023Spring, last updated 2023/04/02)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
 * (2022Fall, last updated 2023/07/27)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
 * (2022Spring, BICMR)[Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
