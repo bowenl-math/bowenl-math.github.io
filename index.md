@@ -35,6 +35,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 
 ### TA
+* (2024Winter)[Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5)
 * (2023Fall)Solutions of homework of [Algebra1](notes/2023Fall/Solutions_to_HW.pdf)
 * (2023Spring, last updated 2023/08/18)Lecture note of [Algebra-2H](notes/2023Spring/Algebra2-H.pdf), Shihao Wang also made a contribution to the Chapter11 of this note.
    - [Solutions to homework 1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf).
