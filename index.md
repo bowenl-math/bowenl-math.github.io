@@ -16,20 +16,17 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 #### Notes
 ##### 2024
 * (Last updated 2024/1/13)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
-
 ##### 2023
 * (2023Fall)[Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [chenglong yu](https://chenglongyu.github.io/).
 * (2023Fall, last updated 2023/12/19)[Draft of Topics in complex algebraic geometry](notes/2023Fall/topics_in_cag.pdf), lectured by Mao Sheng.
 * (2023Spring, last updated 2023/04/02)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
 * (Last updated 2023/09/12)[Symmetric space](notes/personal notes/symmetric_space.pdf). It's a note I typed about symmetric space, and the main reference is the [textbook](https://books.google.com.hk/books/about/Differential_Geometry_Lie_Groups_and_Sym.html?id=DWGvsa6bcuMC&redir_esc=y) written by Sigurdur Helgason.
 * (Last updated 2023/10/13)[Complex geometry I](notes/personal notes/Complex_geometry_I/Complex_geometry_I.pdf). It's a lecture note about complex differential geometry. The initial draft of this note is taken in 2022Spring, in the course about Hodge theory taught by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#), and that's my first time to learn this beautiful theory. Later in 2023Spring I added more useful techniques and advanced topics (such as Schwarz computations, Calabi-Yau theorem and so on) I learnt in the course “advanced topics in complex geometry" given by Xiaokui Yang. I also added some other materials from classical books to make this note self-contained.
-
 ##### 2022
 * (2022Fall)[Partial differential equation](notes/2022Fall/pde.pdf), it's a note I typed when I'm learning PDE, and it's mainly followed the [textbook](https://books.google.com.hk/books/about/Partial_Differential_Equations.html?id=Xnu0o_EJrCQC&redir_esc=y) written by Evans.
 * (2022Fall, last updated 2023/07/27)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
 * (2022Spring, BICMR)[Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
 * (2022Spring, BICMR)[Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabin Ge.
-
 #### Slides
 * (2023/09/22)[Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvatures_of_Lie_group.pdf). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
 * (2023/06/27)Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
