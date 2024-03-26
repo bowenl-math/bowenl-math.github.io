@@ -4,9 +4,10 @@ Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsing
 My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C740 of Shuangqing Complex Building A. Please contact me if you find any mistake in my notes, and comments are welcomed. Thanks in advance for your attention.
 
 ### Seminars
-* (2023Fall)A  [seminar](notes/2023Fall/toric/syllabus.pdf) about toric variety, and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30](notes/2023Fall/toric/12-30,01-07.pdf), [1-07](notes/2023Fall/toric/12-30,01-07.pdf).
+* (2024Spring, last updated 2024/03/26)[Lecture notes](note/2024Spring/algebraic_deRham.pdf) about algebraic de Rham complex (such as comparison theorems, E1 degenerations of Hodge to de Rham spectral sequences and so on) 
+* (2023Fall)A [seminar](notes/2023Fall/toric/syllabus.pdf) about toric variety, and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30](notes/2023Fall/toric/12-30,01-07.pdf), [1-07](notes/2023Fall/toric/12-30,01-07.pdf).
 * (2023Spring)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, the most important ingredients of this part are local computations. Then we introduce its applications on Chern-Weil theory.
-* (2022Fall) Here are the lecture notes of talks I gave in a seminar about Bott-Tu's [GTM82](https://link.springer.com/book/10.1007/978-1-4757-3951-0), which is organized by [chenglong yu](https://chenglongyu.github.io/),
+* (2022Fall)Here are the lecture notes of talks I gave in a seminar about Bott-Tu's [GTM82](https://link.springer.com/book/10.1007/978-1-4757-3951-0), which is organized by [chenglong yu](https://chenglongyu.github.io/),
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf).
    - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf).
  * (2022Summer, last updated 2023/01/30) Here is the draft of lecture note I typed for a seminar about [commutative algebra](notes/2022Summer/commutative_algebra.pdf).
@@ -35,6 +36,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 
 ### TA
+* (2024Spring, last updated 2024/03/26)Solutions of homework of [Algebra2-H](notes/2024Spring/Solutions_to_HW.pdf)
 * (2024Winter)[Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5)
 * (2023Fall)Solutions of homework of [Algebra1](notes/2023Fall/Solutions_to_HW.pdf)
 * (2023Spring, last updated 2023/08/18)Lecture note of [Algebra-2H](notes/2023Spring/Algebra2-H.pdf), Shihao Wang also made a contribution to the Chapter11 of this note.
