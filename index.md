@@ -12,8 +12,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
    - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf).
  * (2022Summer, last updated 2023/01/30) Here is the draft of lecture note I typed for a seminar about [commutative algebra](notes/2022Summer/commutative_algebra.pdf).
 
-### Notes/Slides
-#### Notes
+### Notes
 * (Last updated 2024/1/13)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
 * (2023Fall)[Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [chenglong yu](https://chenglongyu.github.io/).
 * (2023Fall, last updated 2023/12/19)[Draft of Topics in complex algebraic geometry](notes/2023Fall/topics_in_cag.pdf), lectured by Mao Sheng.
@@ -24,6 +23,8 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 * (2022Fall, last updated 2023/07/27)[Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
 * (2022Spring, BICMR)[Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
 * (2022Spring, BICMR)[Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabin Ge.
+
+### Slides
 * (2023/09/22)[Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvatures_of_Lie_group.pdf). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
 * (2023/06/27)Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry, discussed with Zhiyao Xiong, Zhitong Chen.
 * (2023/06/08)Here are [note](notes/personal notes/Uniqueness_CPn/note.pdf) and [slides](notes/personal notes/Uniqueness_CPn/slides.pdf) for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
