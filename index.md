@@ -14,7 +14,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 ### Notes
 * (Last updated 2024/1/13)[Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
-* (2023Fall)[Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [chenglong yu](https://chenglongyu.github.io/).
+* (2023Fall)[Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [Chenglong Yu](https://chenglongyu.github.io/).
 * (2023Fall, last updated 2023/12/19)[Draft of Topics in complex algebraic geometry](notes/2023Fall/topics_in_cag.pdf), lectured by Mao Sheng.
 * (2023Spring, last updated 2023/04/02)[Analytic complex geometry](notes/2023Spring/Analytic_complex_geometry.pdf), lectured by [Jian Xiao](https://sites.google.com/view/jianxiao/).
 * (Last updated 2023/09/12)[Symmetric space](notes/personal notes/symmetric_space.pdf). It's a note I typed about symmetric space, and the main reference is the [textbook](https://books.google.com.hk/books/about/Differential_Geometry_Lie_Groups_and_Sym.html?id=DWGvsa6bcuMC&redir_esc=y) written by Sigurdur Helgason.
