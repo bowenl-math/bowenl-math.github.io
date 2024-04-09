@@ -5,9 +5,9 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 ### Seminars
 * (2024/04/09) It's a [lecture note](notes/2024Spring/04_09.pdf) of a talk I gave in a seminar. In this talk I give a brief introduction about Hodge theory (Hodge structure, variation of Hodge structures and differential geometry of Hodge bundles) as preliminaries for the [paper](https://mathscinet.ams.org/mathscinet/article?mr=3539923).
-* (2024Spring, last updated 2024/03/28)[Lecture notes](notes/2024Spring/algebraic_deRham.pdf) about algebraic de Rham complex (such as comparison theorems, E1 degenerations of Hodge to de Rham spectral sequences and so on) 
+* (2024Spring, last updated 2024/03/28)It's a [lecture note](notes/2024Spring/algebraic_deRham.pdf) about algebraic de Rham complex (such as comparison theorems, E1 degenerations of Hodge to de Rham spectral sequences and so on) 
 * (2023Fall)A [seminar](notes/2023Fall/toric/syllabus.pdf) about toric variety, and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30](notes/2023Fall/toric/12-30,01-07.pdf), [1-07](notes/2023Fall/toric/12-30,01-07.pdf).
-* (2023Spring)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, and then we introduce its applications on Chern-Weil theory.
+* (2023Spring)It's [lecture note](notes/2023Spring/geometry_of_principal_bundle.pdf) about principal bundle and its applications. In this lecture, firstly we introduce principal bundle and connections on it, and then we introduce its applications on Chern-Weil theory.
 * (2022Fall)Here are the lecture notes of talks I gave in a seminar about Bott-Tu's [GTM82](https://link.springer.com/book/10.1007/978-1-4757-3951-0), which is organized by [Chenglong Yu](https://chenglongyu.github.io/),
    - [Čech cohomology](notes/2022Fall/Cech_cohomology.pdf).
    - [Spectral sequence and its application](notes/2022Fall/Spectral_sequence.pdf).
