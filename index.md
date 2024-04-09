@@ -4,6 +4,7 @@ Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsing
 My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C740 of Shuangqing Complex Building A. Please contact me if you find any mistake in my notes, and comments are welcomed. Thanks in advance for your attention.
 
 ### Seminars
+* (2024/04/09) It's a [lecture note](notes/2024Spring/04_09.pdf) of a talk I gave in a seminar. In this talk I give a brief introduction about Hodge theory (Hodge structure, variation of Hodge structures and differential geometry of Hodge bundles) as preliminaries for the [paper](https://mathscinet.ams.org/mathscinet/article?mr=3539923).
 * (2024Spring, last updated 2024/03/28)[Lecture notes](notes/2024Spring/algebraic_deRham.pdf) about algebraic de Rham complex (such as comparison theorems, E1 degenerations of Hodge to de Rham spectral sequences and so on) 
 * (2023Fall)A [seminar](notes/2023Fall/toric/syllabus.pdf) about toric variety, and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30](notes/2023Fall/toric/12-30,01-07.pdf), [1-07](notes/2023Fall/toric/12-30,01-07.pdf).
 * (2023Spring)[Principal bundle and its application](notes/2023Spring/geometry_of_principal_bundle.pdf). In this lecture, firstly we introduce principal bundle and connections on it, and then we introduce its applications on Chern-Weil theory.
@@ -31,7 +32,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 ### TA
 * (2024Spring, last updated 2024/03/26)[Solutions](notes/2024Spring/Solutions_to_HW.pdf) to homework of Algebra2-H, lectured by Xiang He.
-* (2024Winter)[Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5)
+* (2024Winter)[A review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5)
 * (2023Fall)[Solutions](notes/2023Fall/Solutions_to_HW.pdf) to homework of Algebra1, lectured by Xiang He.
 * (2023Spring, last updated 2023/08/18)[Lecture notes](notes/2023Spring/Algebra2-H.pdf) of Algebra2-H, lectured by Chenglong Yu, and here are solutions to homework [1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf), [9/11/13](notes/2023Spring/Solutions(9_11_13).pdf).
 * (2022Fall)[Solutions](notes/2022Fall/Sol_to_abstract_algebra.pdf) to homework of Abstract algebra, lectured by Xiang He.
