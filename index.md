@@ -7,6 +7,9 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 * (2024/04/09) It's a [lecture note](notes/2024Spring/04_09.pdf) of a talk I gave in a seminar. In this talk I give a brief introduction to Hodge theory (Hodge structure, variation of Hodge structures and differential geometry of Hodge bundles) as preliminaries for the [paper](https://mathscinet.ams.org/mathscinet/article?mr=3539923).
 * (2024Spring, last updated 2024/03/28) It's a [lecture note](notes/2024Spring/algebraic_deRham.pdf) about algebraic de Rham complex (such as comparison theorems, E1 degenerations of Hodge to de Rham spectral sequences and so on) 
 * (2023Fall) A [seminar](notes/2023Fall/toric/syllabus.pdf) about toric variety, and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30](notes/2023Fall/toric/12-30,01-07.pdf), [1-07](notes/2023Fall/toric/12-30,01-07.pdf).
+* (2023/09/22) [Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvatures_of_Lie_group.pdf). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
+* (2023/06/27) Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry.
+* (2023/06/08) Here are [note](notes/personal notes/Uniqueness_CPn/note.pdf) and [slides](notes/personal notes/Uniqueness_CPn/slides.pdf) for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
 * (2023Spring) It's [lecture note](notes/2023Spring/geometry_of_principal_bundle.pdf) about principal bundle and its applications. In this lecture, firstly we introduce principal bundle and connections on it, and then we introduce its applications on Chern-Weil theory.
 * (2022Fall) It's a [lecture note](notes/2022Fall/Spectral_sequence.pdf) of talks (about spectral sequence and its applications) I gave in a seminar about Bott-Tu's [GTM82](https://link.springer.com/book/10.1007/978-1-4757-3951-0), which is organized by [Chenglong Yu](https://chenglongyu.github.io/).
  * (2022Summer, last updated 2023/01/30) Here is the draft of lecture note I typed for a seminar about [commutative algebra](notes/2022Summer/commutative_algebra.pdf).
@@ -20,11 +23,6 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 * (2022Fall, last updated 2023/07/27) [Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
 * (2022Spring, BICMR) [Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
 * (2022Spring, BICMR) [Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabin Ge.
-
-### Slides
-* (2023/09/22) [Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvatures_of_Lie_group.pdf). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
-* (2023/06/27) Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry.
-* (2023/06/08) Here are [note](notes/personal notes/Uniqueness_CPn/note.pdf) and [slides](notes/personal notes/Uniqueness_CPn/slides.pdf) for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
 
 ### TA
 * (2024Spring, last updated 2024/03/26) [Solutions](notes/2024Spring/Solutions_to_HW.pdf) to homework of Algebra2-H, lectured by Xiang He.
