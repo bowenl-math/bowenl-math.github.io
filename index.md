@@ -4,8 +4,9 @@ Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsing
 My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C740 of Shuangqing Complex Building A. Please contact me if you find any mistake in my notes, and comments are welcomed. Thanks in advance for your attention.
 
 ### Seminars
+* (2024/04/28) It's a [lecture note](notes/2024Spring/Miyaoka.pdf) of a talk I gave in a seminar. In this talk, we discuss the Chern number inequalities of semistable torsion-free sheaves, and here is the [reference](https://mathscinet.ams.org/mathscinet/article?mr=946247).
 * (2024/04/09) It's a [lecture note](notes/2024Spring/04_09.pdf) of a talk I gave in a seminar. In this talk I give a brief introduction to Hodge theory (Hodge structure, variation of Hodge structures and differential geometry of Hodge bundles) as preliminaries for the [paper](https://mathscinet.ams.org/mathscinet/article?mr=3539923).
-* (2024Spring, last updated 2024/03/28) It's a [lecture note](notes/2024Spring/algebraic_deRham.pdf) about algebraic de Rham complex (such as comparison theorems, E1 degenerations of Hodge to de Rham spectral sequences and so on) 
+* (2024Spring) It's a [lecture note](notes/2024Spring/algebraic_deRham.pdf) about algebraic de Rham complex (such as comparison theorems, E1 degenerations of Hodge to de Rham spectral sequences and so on) 
 * (2023Fall) A [seminar](notes/2023Fall/toric/syllabus.pdf) about toric variety, and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30](notes/2023Fall/toric/12-30,01-07.pdf), [1-07](notes/2023Fall/toric/12-30,01-07.pdf).
 * (2023/09/22) [Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvatures_of_Lie_group.pdf). It's a slide about curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012).
 * (2023/06/27) Here are [note](notes/personal notes/Review_of_topology/note.pdf) and [slides](notes/personal notes/Review_of_topology/slides.pdf) for a review of topology frequently used in geometry.
@@ -33,6 +34,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 * (2022Fall, last updated 2023/01/23) [Lecture notes](notes/2022Fall/Algebra1-H.pdf) of Algebra1-H, lectured by Chenglong Yu.
    
 ### Travel
+* Apr 22 - Apr 26, 2024. [Complex Algebraic Geometry and Related Topics](http://www.mcm.ac.cn/events/programs/202401/t20240122_768739.html), CAS, Beijing, China.
 * Jan 22 - Jan 26, 2024, [Winter School on Homogeneous Dynamics](https://scms.fudan.edu.cn/info/4588/6088.htm), Fudan University, Shanghai, China.
 * Jan 14 - Jan 19, 2024, [Tsinghua-Tokyo workshop on Calabi-Yau](https://indico.ipmu.jp/event/422/), IPMU, Tokyo, Japan.
 * Dec 22 - Dec 26, 2023, [Workshop on algebraic geometry](http://www.tsimf.cn/meeting/detail?id=360), TSIMF, Sanya, China.
