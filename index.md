@@ -34,6 +34,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 * (2022Fall, last updated 2023/01/23) [Lecture notes](notes/2022Fall/Algebra1-H.pdf) of Algebra1-H, lectured by Chenglong Yu.
    
 ### Travel
+* July 8 - July 12, 2024, [2024 Tianyuan Summer School in Algebraic Geometry](http://www.jliumath.com/conferences/2024TSSiAG.html), TMRC, Kunming, China.
 * June 24 - July 5, 2024, [Integrable Systems and Algebraic Geometry](https://www.bimsa.cn/bmpsw/index.html), BIMSA, Beijing, China.
 * Apr 22 - Apr 26, 2024, [Complex Algebraic Geometry and Related Topics](http://www.mcm.ac.cn/events/programs/202401/t20240122_768739.html), MCM, Beijing, China.
 * Jan 22 - Jan 26, 2024, [Winter School on Homogeneous Dynamics](https://scms.fudan.edu.cn/info/4588/6088.htm), Fudan University, Shanghai, China.
