@@ -13,7 +13,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 * (2023/06/08) Here are [note](notes/personal notes/Uniqueness_CPn/note.pdf) and [slides](notes/personal notes/Uniqueness_CPn/slides.pdf) for my final report of course “advanced topics in complex geometry", lectured by Xiaokui Yang, and topic of the final report is the uniqueness of the K\"ahler structure of complex projective space.
 * (2023Spring) It's [lecture note](notes/2023Spring/geometry_of_principal_bundle.pdf) about principal bundle and its applications. In this lecture, firstly we introduce principal bundle and connections on it, and then we introduce its applications on Chern-Weil theory.
 * (2022Fall) It's a [lecture note](notes/2022Fall/Spectral_sequence.pdf) of talks (about spectral sequence and its applications) I gave in a seminar about Bott-Tu's [GTM82](https://link.springer.com/book/10.1007/978-1-4757-3951-0), which is organized by [Chenglong Yu](https://chenglongyu.github.io/).
- * (2022Summer, last updated 2024/06/06) Here is the draft of lecture note I typed for a seminar about [commutative algebra](notes/2022Summer/commutative_algebra.pdf).
+ * (2022Summer, last updated 2024/06/09) Here is the draft of lecture note I typed for a seminar about [commutative algebra](notes/2022Summer/commutative_algebra.pdf).
 
 ### Notes
 * (Last updated 2024/1/13) [Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
@@ -26,7 +26,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 * (2022Spring, BICMR) [Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabin Ge.
 
 ### TA
-* (2024Spring, last updated 2024/06/06) [Solutions](notes/2024Spring/Solutions_to_HW.pdf) to homework of Algebra2-H, lectured by Xiang He.
+* (2024Spring, last updated 2024/06/09) [Solutions](notes/2024Spring/Solutions_to_HW.pdf) to homework of Algebra2-H, lectured by Xiang He.
 * (2024Winter) [A review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5)
 * (2023Fall) [Solutions](notes/2023Fall/Solutions_to_HW.pdf) to homework of Algebra1, lectured by Xiang He.
 * (2023Spring, last updated 2023/08/18) [Lecture notes](notes/2023Spring/Algebra2-H.pdf) of Algebra2-H, lectured by Chenglong Yu, and here are solutions to homework [1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf), [9/11/13](notes/2023Spring/Solutions(9_11_13).pdf).
