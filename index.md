@@ -1,5 +1,5 @@
 ### Welcome to my homepage!
-Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsinghua University from Sept 2022, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/). My research interest lies at the intersection of complex differential geometry and complex algebraic geometry. Recently, I have been interested in searching for Chern number inequalities involving higher Chern numbers, which are closely related to Bridgeland stability and the existence of the deformed Hermitian-Yang-Mills equation on threefolds.
+Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsinghua University from Sept 2022, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/). My research interest lies at the intersection of complex differential geometry and complex algebraic geometry. Recently, I have been interested in establishing the relations between Bridgeland stability and the existence of the deformed Hermitian-Yang-Mills equation on surfaces. Also, I’m interested in Higgs bundles and its geometry.
 
 My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C740 of Shuangqing Complex Building A. Please contact me if you find any mistake in my notes, and comments are welcomed. Thanks in advance for your attention.
 
