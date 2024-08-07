@@ -16,16 +16,18 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
  * (2022Summer, last updated 2024/06/09) Here is the draft of lecture note I typed for a seminar about [commutative algebra](notes/2022Summer/commutative_algebra.pdf).
 
 ### Notes
+* (2024)[Five lectures on Introduction to singularities](https://drive.google.com/file/d/1TNwJU4qZ8c1ai_CBEsrb2sbbXOeXEMT9/view). It's a lecture note I typed with [Ruijie Yang](https://sites.google.com/view/ruijie-yang/).
 * (Last updated 2024/1/13) [Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). It's a note I typed when I'm learning algebraic geometry from course taught by Lei Fu in 2023Fall.
 * (2023Fall) [Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [Chenglong Yu](https://chenglongyu.github.io/).
 * (Last updated 2023/09/12) [Symmetric space](notes/personal notes/symmetric_space.pdf). It's a note I typed about symmetric space, and the main reference is the [textbook](https://books.google.com.hk/books/about/Differential_Geometry_Lie_Groups_and_Sym.html?id=DWGvsa6bcuMC&redir_esc=y) written by Sigurdur Helgason.
 * (Last updated 2023/10/13) [Complex geometry I](notes/personal notes/Complex_geometry_I/Complex_geometry_I.pdf). It's a lecture note about complex differential geometry. The initial draft of this note is taken in 2022Spring, in the course about Hodge theory taught by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#), and that's my first time to learn this beautiful theory. Later in 2023Spring I added more useful techniques and advanced topics (such as Schwarz computations, Calabi-Yau theorem and so on) I learnt in the course “advanced topics in complex geometry" given by Xiaokui Yang. I also added some other materials from classical books to make this note self-contained.
 * (2022Fall) [Partial differential equation](notes/2022Fall/pde.pdf), it's a note I typed when I'm learning PDE, and it's mainly followed the [textbook](https://books.google.com.hk/books/about/Partial_Differential_Equations.html?id=Xnu0o_EJrCQC&redir_esc=y) written by Evans.
-* (2022Fall, last updated 2023/07/27) [Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf), lectured by Xiaokui Yang, I also added some related materials.
-* (2022Spring, BICMR) [Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
+* (2022Fall, last updated 2023/07/27) [Riemannian geometry](notes/2022Fall/Riemannian_geometry.pdf). It's a note I typed when I'm learning Riemannian geometry from course taught by Xiaokui Yang in 2022Fall, and from this course I learnt quite a lot.
+* (2022Spring, BICMR) Draft of [Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf), lectured by Emanuel Scheidegger. 
 * (2022Spring, BICMR) [Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabin Ge.
 
 ### TA
+* (2024Fall) Riemann surfaces, lectured by Dan Xie.
 * (2024Spring, last updated 2024/06/09) [Solutions](notes/2024Spring/Solutions_to_HW.pdf) to homework of Algebra2-H, lectured by Xiang He.
 * (2024Winter) [A review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5)
 * (2023Fall) [Solutions](notes/2023Fall/Solutions_to_HW.pdf) to homework of Algebra1, lectured by Xiang He.
@@ -33,7 +35,8 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 * (2022Fall) [Solutions](notes/2022Fall/Sol_to_abstract_algebra.pdf) to homework of Abstract algebra, lectured by Xiang He.
 * (2022Fall, last updated 2023/01/23) [Lecture notes](notes/2022Fall/Algebra1-H.pdf) of Algebra1-H, lectured by Chenglong Yu.
    
-### Travel
+### Travel (to workshops, summer schools and so on)
+* Aug 16 - Aug 23, 2024, [Workshop on Hodge theory 2024](https://math.ustc.edu.cn/2024/0807/c18653a651050/pagem.htm), University of Science and Technology of China, Hefei, China.
 * Jul 18 - Jul 24, 2024, [International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/1059/6361.htm), Fudan University, Shanghai, China.
 * July 8 - July 12, 2024, [2024 Tianyuan Summer School in Algebraic Geometry](http://www.jliumath.com/conferences/2024TSSiAG.html), TMRC, Kunming, China.
 * June 24 - July 5, 2024, [Integrable Systems and Algebraic Geometry](https://www.bimsa.cn/bmpsw/index.html), BIMSA, Beijing, China.
