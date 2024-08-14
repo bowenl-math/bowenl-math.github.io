@@ -28,7 +28,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 ### Teaching
 #### Lecturer
-* (2024Winter) [Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5).
+* (2024Winter) [Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5), a quick review for first year undergraduate students.
 
 #### Teaching Assistant
 * (2024Fall) Riemann surfaces, lectured by Dan Xie.
