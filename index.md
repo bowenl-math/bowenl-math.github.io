@@ -34,9 +34,9 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 * (2024Fall) Riemann surfaces, lectured by Dan Xie.
 * (2024Spring, last updated 2024/06/09) Algebra2-H, lectured by Xiang He, [solutions to homework](notes/2024Spring/Solutions_to_HW.pdf).
 * (2023Fall) Algebra1, lectured by Xiang He, [solutions to homework](notes/2023Fall/Solutions_to_HW.pdf).
-* (2023Spring, last updated 2023/08/18) Algebra2-H, lectured by Chenglong Yu, part solutions to homework [1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf), [9/11/13](notes/2023Spring/Solutions(9_11_13).pdf) and [lecture notes](notes/2023Spring/Algebra2-H.pdf).
+* (2023Spring, last updated 2023/08/18) Algebra2-H, lectured by Chenglong Yu, part solutions to homework [1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf), [9/11/13](notes/2023Spring/Solutions(9_11_13).pdf) and [lecture note](notes/2023Spring/Algebra2-H.pdf).
 * (2022Fall) Abstract algebra, lectured by Xiang He, [solutions to homework](notes/2022Fall/Sol_to_abstract_algebra.pdf).
-* (2022Fall, last updated 2023/01/23) Algebra1-H, lectured by Chenglong Yu, [lecture notes](notes/2022Fall/Algebra1-H.pdf).
+* (2022Fall, last updated 2023/01/23) Algebra1-H, lectured by Chenglong Yu, [lecture note](notes/2022Fall/Algebra1-H.pdf).
    
 ### Travel (to workshops, summer schools and so on)
 * Aug 16 - Aug 23, 2024, [Workshop on Hodge theory 2024](https://math.ustc.edu.cn/2024/0807/c18653a651050/pagem.htm), University of Science and Technology of China, Hefei, China.
