@@ -8,7 +8,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 #### Seminar Notes
 * [Notes on Chern Inequalities](notes/2024Spring/Miyaoka.pdf). Based on a talk I gave, I discuss the Chern number inequalities of semistable torsion-free sheaves. (2024/05/12)
 
-* [Notes on a brief Introduction to Hodge Theory.](notes/2024Spring/04_09.pdf). Based on a talk I gave, I covered a brief introduction to Hodge theory (Hodge structure, variation of Hodge structures and diﬀerential geometry of Hodge bundles). (2024/04/09)
+* [Notes on a brief Introduction to Hodge Theory](notes/2024Spring/04_09.pdf). Based on a talk I gave, I covered a brief introduction to Hodge theory (Hodge structure, variation of Hodge structures and diﬀerential geometry of Hodge bundles). (2024/04/09)
 
 * Spring 2024, It's a [note](notes/2024Spring/algebraic_deRham.pdf) about algebraic de Rham complex (such as comparison theorems, E1 degenerations of Hodge to de Rham spectral sequences and so on) 
 * Fall 2023, A [seminar](notes/2023Fall/toric/syllabus.pdf) about toric variety, and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30](notes/2023Fall/toric/12-30,01-07.pdf), [1-07](notes/2023Fall/toric/12-30,01-07.pdf).
