@@ -4,6 +4,7 @@ Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsing
 My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C740 of Shuangqing Complex Building A. Please contact me if you find any mistake in my notes, and all comments are welcomed.
 
 
+
 ### Notes
 #### Seminar Notes
 * [Notes on Chern Inequalities](notes/2024Spring/Miyaoka.pdf). Based on a talk I gave, I discuss the Chern number inequalities of semistable torsion-free sheaves, 2024/05/12.
@@ -56,25 +57,43 @@ Yang, and I typed the draft version of it, Summer 2024.
 #### Lecturer
 * [Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5), a quick review for first year undergraduate students, Winter 2024, 
 
+
 #### Teaching Assistant
 * Riemann surfaces, lectured by Dan Xie, Fall 2024.
+
 * Algebra2-H, lectured by Xiang He, [solutions to homework](notes/2024Spring/Solutions_to_HW.pdf), Spring 2024.
+
 * Algebra1, lectured by Xiang He, [solutions to homework](notes/2023Fall/Solutions_to_HW.pdf), Fall 2023.
+
 * Algebra2-H, lectured by Chenglong Yu, part solutions to homework [1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf), [9/11/13](notes/2023Spring/Solutions(9_11_13).pdf) and [lecture note](notes/2023Spring/Algebra2-H.pdf), Spring 2023.
+
 * Abstract algebra, lectured by Xiang He, [solutions to homework](notes/2022Fall/Sol_to_abstract_algebra.pdf), Fall 2022.
+
 * Algebra1-H, lectured by Chenglong Yu, [lecture note](notes/2022Fall/Algebra1-H.pdf), Fall 2022.
+   
    
    
 ### Travel (to workshops, summer schools and so on)
 * Aug 16 - Aug 23, 2024, [Workshop on Hodge theory 2024](https://math.ustc.edu.cn/2024/0807/c18653a651050/pagem.htm), University of Science and Technology of China, Hefei, China.
+
 * Jul 18 - Jul 24, 2024, [International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/1059/6361.htm), Fudan University, Shanghai, China.
+
 * July 8 - July 12, 2024, [2024 Tianyuan Summer School in Algebraic Geometry](http://www.jliumath.com/conferences/2024TSSiAG.html), TMRC, Kunming, China.
+
 * June 24 - July 5, 2024, [Integrable Systems and Algebraic Geometry](https://www.bimsa.cn/bmpsw/index.html), BIMSA, Beijing, China.
+
 * Apr 22 - Apr 26, 2024, [Complex Algebraic Geometry and Related Topics](http://www.mcm.ac.cn/events/programs/202401/t20240122_768739.html), MCM, Beijing, China.
+
 * Jan 22 - Jan 26, 2024, [Winter School on Homogeneous Dynamics](https://scms.fudan.edu.cn/info/4588/6088.htm), Fudan University, Shanghai, China.
+
 * Jan 14 - Jan 19, 2024, [Tsinghua-Tokyo workshop on Calabi-Yau](https://indico.ipmu.jp/event/422/), IPMU, Tokyo, Japan.
+
 * Dec 22 - Dec 26, 2023, [Workshop on algebraic geometry](http://www.tsimf.cn/meeting/detail?id=360), TSIMF, Sanya, China.
+
 * Aug 9 - Aug 13, 2023, [Workshop for algebraic geometry and complex geometry](https://tmcc.whu.edu.cn/info/1206/2689.htm), Wuhan University, Wuhan, China.
+
 * Jul 10 - Jul 21, 2023, [International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/4503/5820.htm), Fudan University, Shanghai, China.
+
 * Jul 31 - Aug 5, 2022, [ICCM2022](http://iccm.tsinghua.edu.cn/iccm2022/#/), Tsinghua University and Southeast University, Nanjing, China.
+
 * Jul 12 - Jul 22, 2021, [Number theory summer school](https://math.xjtu.edu.cn/info/1089/10637.htm), Xi’an Jiaotong University, Xi'an, China.
