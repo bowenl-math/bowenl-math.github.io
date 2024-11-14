@@ -1,5 +1,5 @@
 ### Welcome to my homepage!
-Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsinghua University from Sept 2022, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/). My research interest focus on the stability of vector bundles or Higgs bundles and related topics, such as the slope stability over characteristic zero and positive characteristic, Bridgeland stabilities and so on.
+Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsinghua University from Sept 2022, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/). My research interests focus on the stability of vector bundles or Higgs bundles and related topics, such as the slope stability over characteristic zero and positive characteristic, Bridgeland stabilities and so on.
 
 My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C740 of Shuangqing Complex Building A. Please contact me if you find any mistake in my notes, and all comments are welcomed.
 
