@@ -29,14 +29,14 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
  
 
 #### Lecture Notes
-* [Five lectures on Introduction to singularities](https://drive.google.com/file/d/1TNwJU4qZ8c1ai_CBEsrb2sbbXOeXEMT9/view). Lectured by Ruijie
+* [Five lectures on Introduction to singularities](https://drive.google.com/file/d/1TNwJU4qZ8c1ai_CBEsrb2sbbXOeXEMT9/view), lectured by Ruijie
 Yang, and I typed the draft version of it, Summer 2024.
 
-* [Algebraic curve](notes/2023Fall/algebraic_curve.pdf). Lectured by [Chenglong Yu](https://chenglongyu.github.io/), Fall 2023.
+* [Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [Chenglong Yu](https://chenglongyu.github.io/), Fall 2023.
 
-* [Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf) (Draft version). Lectured by Emanuel Scheidegger, Spring 2022.
+* [Representation theory](notes/notes for enhanced program of BICMR/Representation_theory.pdf) (Draft version), lectured by Emanuel Scheidegger, Spring 2022.
  
-* [Homology theory](notes/notes for enhanced program of BICMR/homology.pdf). Lectured by Huabin Ge, Spring 2022.
+* [Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabin Ge, Spring 2022.
 
 
 #### Learning Notes
