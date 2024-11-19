@@ -19,7 +19,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 * [Review of topology](notes/personal notes/Review_of_topology/note.pdf) ([slides](notes/personal notes/Review_of_topology/slides.pdf)) frequently used in geometry, 2023/06/27.
 
-* [Uniqueness of the K\"ahler structure of complex projective space](notes/personal notes/Uniqueness_CPn/note.pdf) ([slides](notes/personal notes/Uniqueness_CPn/slides.pdf)). This is my final report for the course “advanced topics in complex geometry”. Lectured by Xiaokui Yang, 2023/06/08.
+* [Uniqueness of the K\"ahler structure of complex projective space](notes/personal notes/Uniqueness_CPn/note.pdf) ([slides](notes/personal notes/Uniqueness_CPn/slides.pdf)). This is my final report for the course “advanced topics in complex geometry”, lectured by Xiaokui Yang, 2023/06/08.
 
 * [Principal bundle and its applications](notes/2023Spring/geometry_of_principal_bundle.pdf). Based on a talk I gave, In this lecture, firstly I introduce principal bundle and connections on it, and then I introduce its applications on Chern-Weil theory, Spring 2023.
 
@@ -45,7 +45,7 @@ Yang, and I typed the draft version of it, Summer 2024.
 
 * [Symmetric space](notes/personal notes/symmetric_space.pdf). Notes I typed about symmetric space, and the main reference is the [textbook](https://books.google.com.hk/books/about/Differential_Geometry_Lie_Groups_and_Sym.html?id=DWGvsa6bcuMC&redir_esc=y) written by Sigurdur Helgason. (Last updated 2023/09/12)
 
-* [Complex geometry I](notes/personal notes/Complex_geometry_I/Complex_geometry_I.pdf) (Draft version). Lecture notes about complex differential geometry. The initial draft of this note is taken in spring 2022. in thecourse about Hodge theory taught by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#), and that’s my first time to learn this beautiful theory. Later in Spring 2023 I added more useful techniques and advanced topics (such as Schwarz computations, Calabi-Yau theorem and so on) I learnt in the course “advanced topics in complex geometry” given by Xiaokui Yang. I also added some other materials from classical books to make this note self-contained.
+* [Complex geometry I](notes/personal notes/Complex_geometry_I/Complex_geometry_I.pdf) (Draft version). Lecture notes about complex differential geometry. The initial draft of this note is taken in spring 2022. in the course about Hodge theory taught by [Qizheng Yin](http://faculty.bicmr.pku.edu.cn/~qizheng/#), and that’s my first time to learn this beautiful theory. Later in Spring 2023 I added more useful techniques and advanced topics (such as Schwarz computations, Calabi-Yau theorem and so on) I learnt in the course “advanced topics in complex geometry” given by Xiaokui Yang. I also added some other materials from classical books to make this note self-contained.
 
 * [Partial differential equation](notes/2022Fall/pde.pdf), Notes I typed when I learned about PDE, and it mainly followed the [textbook](https://books.google.com.hk/books/about/Partial_Differential_Equations.html?id=Xnu0o_EJrCQC&redir_esc=y) written by Evans, Fall 2022.
 
