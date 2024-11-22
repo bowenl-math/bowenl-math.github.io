@@ -19,7 +19,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 * [Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvatures_of_Lie_group.pdf). Slides on curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor’s [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012), 2023/09/22.
 
-* [Review of topology](notes/personal notes/Review_of_topology/slides.pdf) ([note](notes/personal notes/Review_of_topology/note.pdf))  frequently used in geometry, 2023/06/27.
+* [Review of topology](notes/personal notes/Review_of_topology/slides.pdf) ([note version](notes/personal notes/Review_of_topology/note.pdf))  frequently used in geometry, 2023/06/27.
 
 * [Uniqueness of the K\"ahler structure of complex projective space](notes/personal notes/Uniqueness_CPn/slides.pdf) ([note version](notes/personal notes/Uniqueness_CPn/note.pdf)). This is my final report for the course “advanced topics in complex geometry”, lectured by Xiaokui Yang, 2023/06/08.
 
