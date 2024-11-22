@@ -7,7 +7,7 @@ My email is liubw22 [at] mails.tsinghua.edu.cn, and my workstation is S103 at C7
 
 ### Notes
 #### Seminar Notes
-* [Bridgeland stability and dHYM metric of line bundles on surface](notes/2024Fall/11_28_slices.pdf) ([note version](notes/2024Fall/11_28.pdf)). This is my final report for the course “topics in derived categories”, lectured by Yuwei Fan, 2024/11/28.
+* [Bridgeland stability and dHYM metric of line bundles on surface](notes/2024Fall/11_28_slices.pdf) ([note version](notes/2024Fall/11_28.pdf)). This is my final report for the course “topics in derived categories”, lectured by [Yuwei Fan](https://ywfan-math.github.io/), 2024/11/28.
 
 * [Notes on Chern Inequalities](notes/2024Spring/Miyaoka.pdf). Based on a talk I gave, I discuss the Chern number inequalities of semistable torsion-free sheaves, 2024/05/12.
 
