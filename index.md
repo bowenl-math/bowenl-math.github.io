@@ -76,6 +76,8 @@ Yang, and I typed the draft version of it, Summer 2024.
    
    
 ### Travel (to workshops, summer schools and so on)
+* Dec 22 - Dec 27, 2024, [Workshop on algebraic geometry](https://www.tsimf.cn/meeting/detail?id=390), TSIMF, Sanya, China.
+
 * Aug 16 - Aug 23, 2024, [Workshop on Hodge theory 2024](https://math.ustc.edu.cn/2024/0807/c18653a651050/pagem.htm), University of Science and Technology of China, Hefei, China.
 
 * Jul 18 - Jul 24, 2024, [International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/1059/6361.htm), Fudan University, Shanghai, China.
