@@ -61,6 +61,8 @@ Yang, and I typed the draft version of it, Summer 2024.
 
 
 #### Teaching Assistant
+* Algebra2, lectured by Chenglong Yu, Spring 2025.
+
 * Riemann surfaces, lectured by Dan Xie, Fall 2024.
 
 * Algebra2-H, lectured by Xiang He, [solutions to homework](notes/2024Spring/Solutions_to_HW.pdf), Spring 2024.
