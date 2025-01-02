@@ -7,7 +7,7 @@ My email is liubw22 [at] mails [dot] tsinghua [dot] edu [dot] cn, and my worksta
 
 ### Notes
 #### Seminar Notes
-* Seminar on Higgs bundles and related topics, Spring 2025.
+* [Seminar on Higgs bundles and related topics](notes/2025Spring/Higgs/syllabus.pdf), Spring 2025.
 
 * [Bridgeland stability and dHYM metric of line bundles on surface](notes/2024Fall/11_28_slides.pdf) ([note version](notes/2024Fall/11_28.pdf)). This is my final report for the course “topics in derived categories”, lectured by [Yuwei Fan](https://ywfan-math.github.io/), 2024/11/28.
 
