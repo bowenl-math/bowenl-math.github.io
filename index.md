@@ -66,7 +66,7 @@ Yang, and I typed the draft version of it, Summer 2024.
 
 
 #### Teaching Assistant
-* Algebra2, lectured by Chenglong Yu, Spring 2025.
+* Linear algebra, lectured by Chenglong Yu, Spring 2025.
 
 * Riemann surfaces, lectured by Dan Xie, Fall 2024.
 
