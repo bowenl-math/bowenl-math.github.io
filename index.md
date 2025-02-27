@@ -1,5 +1,5 @@
 ### Welcome to my homepage!
-Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsinghua University from Sept 2022, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/). My research interests focus on the non-abelian Hodge theory over algebraically closed field. Also, I'm interested in all kinds of stabilities, especially for stability of Higgs bundles and related topics.
+Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsinghua University from Sept 2022, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/). My research interests focus on the non-abelian Hodge theory over algebraically closed field. Also, I'm interested in stabilities of vector bundle, Higgs bundle, and in derived category.
 
 My email is liubw22 [at] mails [dot] tsinghua [dot] edu [dot] cn, and my workstation is S103 at C740 of Shuangqing Complex Building A. Please contact me by email or let's have coffee at Shuangqing if you find any mistake in my notes, and all comments are welcomed.
 
