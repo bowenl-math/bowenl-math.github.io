@@ -18,7 +18,7 @@ DREAMS OF LOVE AND HOPE SHALL NEVER DIE!
 
 * [Notes on Algebraic de Rham Cohomology](notes/2024Spring/algebraic_deRham.pdf). I discuss algebraic de Rham complexes, such as comparison theorems, E1 degenerations of Hodge to de Rham spectral sequences, Spring 2024.
 
-* [Seminar on toric variety](notes/2023Fall/toric/syllabus.pdf), and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30](notes/2023Fall/toric/12-30,01-07.pdf), [1-07](notes/2023Fall/toric/12-30,01-07.pdf), Fall 2023.
+* [Seminar on toric variety](notes/2023Fall/toric/syllabus.pdf), and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30, 1-07](notes/2023Fall/toric/12-30,01-07.pdf), Fall 2023.
 
 * [Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvatures_of_Lie_group.pdf). Slides on curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor’s [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012), 2023/09/22.
 
