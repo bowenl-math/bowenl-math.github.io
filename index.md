@@ -49,8 +49,9 @@ Yang, and I typed the draft version of it, Summer 2024.
 
 
 #### Learning Notes
-* [Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). Notes I typed when I learned algebraic geometry from a course taught by Lei Fu, Fall 2023. (Last updated
-2024/1/13)
+* [Moduli problems of bundles](notes/2025Spring/moduli.pdf). Draft I typed when I learned moduli problems of bundles, Spring 2025.
+
+* [Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf).cNotes I typed when I learned algebraic geometry from a course taught by Lei Fu, Fall 2023. (Last updated 2024/1/13)
 
 * [Symmetric space](notes/personal notes/symmetric_space.pdf). Notes I typed about symmetric space, and the main reference is the [textbook](https://books.google.com.hk/books/about/Differential_Geometry_Lie_Groups_and_Sym.html?id=DWGvsa6bcuMC&redir_esc=y) written by Sigurdur Helgason. (Last updated 2023/09/12)
 
