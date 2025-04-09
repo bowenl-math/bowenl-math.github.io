@@ -1,4 +1,3 @@
-Welcome to Bowen's Homepage!
 
 ## About Me
 
