@@ -6,7 +6,7 @@ My email is liubw22 [at] mails [dot] tsinghua [dot] edu [dot] cn, and you can fi
 
 [DREAMS OF LOVE AND HOPE SHALL NEVER DIE](https://bowenl.notion.site/movies)!
 
-* [Notes](/notes.md) - My seminar notes, lecture notes, and learning materials
-* [Teaching](/teaching.md) - Courses I've taught or assisted with  
+* [Notes](/notes.md) - Seminar notes, lecture notes, and learning materials.
+* [Teaching](/teaching.md) - Courses I've taught or assisted with.  
 * [Travel](/travel.md) - Workshops and summer schools I've attended
 
