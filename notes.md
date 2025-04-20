@@ -27,8 +27,6 @@
 #### Lecture Notes
 * [Abelian variety](notes/2025Spring/abelian_variety.pdf), lectured by Mao Sheng, Spring 2025.
 
-* [Linear algebra](notes/2025Spring/linear_algebra.pdf), lectured by [Chenglong Yu](https://chenglongyu.github.io/), Spring 2025.
-
 * [Five lectures on Introduction to singularities](https://drive.google.com/file/d/1TNwJU4qZ8c1ai_CBEsrb2sbbXOeXEMT9/view), lectured by Ruijie Yang, and I typed the draft version of it, Summer 2024.
 
 * [Algebraic curve](notes/2023Fall/algebraic_curve.pdf), lectured by [Chenglong Yu](https://chenglongyu.github.io/), Fall 2023.

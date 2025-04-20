@@ -3,7 +3,7 @@
 * [Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5), a quick review for first year undergraduate students, Winter 2024.
 
 #### Teaching Assistant
-* Linear algebra, lectured by Chenglong Yu, Spring 2025.
+* [Linear algebra](notes/2025Spring/linear_algebra.pdf), lectured by Chenglong Yu, Spring 2025.
 
 * Riemann surfaces, lectured by Dan Xie, Fall 2024.
 
