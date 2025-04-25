@@ -1,4 +1,6 @@
 ### Travel (to workshops, summer schools and so on)
+* April 29 – May 3, 2025, [Conference on Algebraic Geometry and its Applications](https://math.nju.edu.cn/sy/xshy/20250228/i309003.html), Nanjing University, Nanjing, China
+
 * Dec 22 - Dec 27, 2024, [Workshop on algebraic geometry](https://www.tsimf.cn/meeting/detail?id=390), TSIMF, Sanya, China.
 
 * Aug 16 - Aug 23, 2024, [Workshop on Hodge theory 2024](https://math.ustc.edu.cn/2024/0807/c18653a651050/pagem.htm), University of Science and Technology of China, Hefei, China.
