@@ -1,5 +1,7 @@
 ### Travel (to workshops, summer schools and so on)
-* April 29 – May 3, 2025, [Conference on Algebraic Geometry and its Applications](https://math.nju.edu.cn/sy/xshy/20250228/i309003.html), Nanjing University, Nanjing, China
+* May 12 - May 17, 2025, [Mini Course on ''Stable reduction of algebraic curves''](https://tianyuan.xmu.edu.cn/cn/MiniCourses/3732.html), TMSE, Xiamen, China.
+
+* April 29 - May 3, 2025, [Conference on Algebraic Geometry and its Applications](https://math.nju.edu.cn/sy/xshy/20250228/i309003.html), Nanjing University, Nanjing, China
 
 * Dec 22 - Dec 27, 2024, [Workshop on algebraic geometry](https://www.tsimf.cn/meeting/detail?id=390), TSIMF, Sanya, China.
 
