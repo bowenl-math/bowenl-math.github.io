@@ -1,6 +1,6 @@
 ### Notes
 #### Seminar Notes
-* [Seminar on Higgs bundles and related topics](notes/2025Spring/Higgs/syllabus.pdf). Here is the [seminar note](notes/2025Spring/Higgs/self_dual_equation.pdf) written by Qiliang Luo, Bating Xie and myself, Spring 2025.
+* [Seminar on Higgs bundles and related topics](notes/2025Spring/Higgs/syllabus.pdf). Here is the [seminar note](notes/2025Spring/Higgs/self_dual_equation.pdf) written by Qiliang Luo, Baiting Xie and myself, Spring 2025.
 
 * [Bridgeland stability and dHYM metric of line bundles on surface](notes/2024Fall/11_28_slides.pdf) ([note version](notes/2024Fall/11_28.pdf)). This is my final report for the course "topics in derived categories", lectured by [Yuwei Fan](https://ywfan-math.github.io/), 2024/11/28.
 
