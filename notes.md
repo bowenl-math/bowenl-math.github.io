@@ -25,6 +25,8 @@
 * [Commutative algebra](notes/2022Summer/commutative_algebra.pdf), Summer 2022.
 
 #### Lecture Notes
+* [Stable reduction of algebraic curves](notes/2025Spring/stable_reduction.pdf), lectured by Qing Liu, Spring 2025.
+
 * [Abelian variety](notes/2025Spring/abelian_variety.pdf), lectured by Mao Sheng, Spring 2025.
 
 * [Five lectures on Introduction to singularities](https://drive.google.com/file/d/1TNwJU4qZ8c1ai_CBEsrb2sbbXOeXEMT9/view), lectured by Ruijie Yang, and I typed the draft version of it, Summer 2024.
