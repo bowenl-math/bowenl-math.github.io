@@ -14,6 +14,6 @@ My email is liubw22 [at] mails [dot] tsinghua [dot] edu [dot] cn, and you can fi
 Please contact me by email or let's have coffee at Shuangqing if you find any mistake in my notes. All comments are welcomed.
 
 * [Notes](/notes.md) - Seminar notes, lecture notes, and some learning notes I typed when I was learning it.
-* [Preprints](/preprints.md)
+* [Research](/preprints.md) - Preprints.
 * [Teaching](/teaching.md) - Courses I taught or as a teaching assistant.
 * [Travel](/travel.md) - Workshops and summer schools I've attended.
