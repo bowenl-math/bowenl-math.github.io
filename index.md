@@ -1,7 +1,9 @@
 
 ## About Me
 
-![Bowen Liu](/img/photo.jpg)
+<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
+  <img src="/img/photo.jpg" alt="Bowen Liu" style="width: 200px; max-width: 100%;">
+</div>
 
 Hello, I'm Bowen Liu, a PhD student in Yau Mathematical Sciences Center of Tsinghua University from Sept 2022, under the supervision of [Chenglong Yu](https://chenglongyu.github.io/). Also under the supervision of Mao Sheng from 2025. 
 
