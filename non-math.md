@@ -1,5 +1,3 @@
-### Personal interests
-
 #### Movies
 
 * [Movie arXiv](https://bowenl.notion.site/movies). 
