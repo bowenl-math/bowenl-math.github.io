@@ -1,4 +1,3 @@
-### Notes
 #### Seminar Notes
 * [Seminar on Higgs bundles and related topics](notes/2025Spring/Higgs/syllabus.pdf). Here is the [seminar note](notes/2025Spring/Higgs/self_dual_equation.pdf) written by Qiliang Luo, Baiting Xie and myself, Spring 2025.
 
