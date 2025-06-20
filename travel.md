@@ -1,5 +1,4 @@
-
-### Travel (to workshops, summer schools and so on)
+#### Travel (to workshops, summer schools and so on)
 * June 30 - July 11, 2025, International Summer School of Algebraic Geometry, Fudan University, Shanghai, China.
 
 * May 12 - May 17, 2025, [Mini Course on ''Stable reduction of algebraic curves''](https://tianyuan.xmu.edu.cn/cn/MiniCourses/3732.html), TMSE, Xiamen, China.

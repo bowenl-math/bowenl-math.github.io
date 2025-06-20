@@ -1,4 +1,4 @@
-### Seminar Notes
+#### Seminar Notes
 * [Seminar on Higgs bundles and related topics](notes/2025Spring/Higgs/syllabus.pdf). Here is the [seminar note](notes/2025Spring/Higgs/self_dual_equation.pdf) written by Qiliang Luo, Baiting Xie and myself, Spring 2025.
 
 * [Bridgeland stability and dHYM metric of line bundles on surface](notes/2024Fall/11_28_slides.pdf) ([note version](notes/2024Fall/11_28.pdf)). This is my final report for the course "topics in derived categories", lectured by [Yuwei Fan](https://ywfan-math.github.io/), 2024/11/28.
@@ -23,7 +23,7 @@
 
 * [Commutative algebra](notes/2022Summer/commutative_algebra.pdf), Summer 2022.
 
-### Lecture Notes
+#### Lecture Notes
 * [Stable reduction of algebraic curves](notes/2025Spring/stable_reduction.pdf), lectured by Qing Liu, Spring 2025.
 
 * [Abelian variety](notes/2025Spring/abelian_variety.pdf), lectured by Mao Sheng, Spring 2025.
@@ -36,7 +36,7 @@
 
 * [Homology theory](notes/notes for enhanced program of BICMR/homology.pdf), lectured by Huabin Ge, Spring 2022.
 
-### Learning Notes
+#### Learning Notes
 * [Moduli problems of bundles](notes/2025Spring/moduli.pdf). Draft I typed when I learned moduli problems of bundles, Spring 2025.
 
 * [Algebraic geometry](notes/2023Fall/algebraic_geometry.pdf). Notes I typed when I learned algebraic geometry from a course taught by Lei Fu, Fall 2023. (Last updated 2024/1/13)
