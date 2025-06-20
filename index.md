@@ -17,3 +17,4 @@ Please contact me by email or let's have coffee at Shuangqing if you find any mi
 * [Research](/preprints.md) - Preprints.
 * [Teaching](/teaching.md) - Courses I taught or as a teaching assistant.
 * [Travel](/travel.md) - Workshops and summer schools I've attended.
+* [Non-math](/non-math.md) - Interests.
