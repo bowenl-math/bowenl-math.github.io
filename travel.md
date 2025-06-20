@@ -1,3 +1,4 @@
+
 ### Travel (to workshops, summer schools and so on)
 * June 30 - July 11, 2025, International Summer School of Algebraic Geometry, Fudan University, Shanghai, China.
 
