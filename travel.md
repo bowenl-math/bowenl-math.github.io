@@ -1,4 +1,9 @@
+#### Talks
+* Aug 19, Strong semistability of Higgs bundles over curves, University of Science and Technology of China, Hefei, China.
+
 #### Travel (to workshops, summer schools and so on)
+* Aug 31 - Sept 9, 2023, Workshop for algebraic geometry and complex geometry, Wuhan University, Wuhan, China.
+
 * June 30 - July 11, 2025, [International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/5753/9971.htm), Fudan University, Shanghai, China.
 
 * May 12 - May 17, 2025, [Mini Course on ''Stable reduction of algebraic curves''](https://tianyuan.xmu.edu.cn/cn/MiniCourses/3732.html), TMSE, Xiamen, China.
