@@ -1,5 +1,5 @@
 #### Talks
-* Aug 19, "Strong semistability of Higgs bundles over curves", University of Science and Technology of China, Hefei, China.
+* Aug 19, 2025, "Strong semistability of Higgs bundles over curves", University of Science and Technology of China, Hefei, China.
 
 #### Travel (to workshops, summer schools and so on)
 * Aug 31 - Sept 9, 2023, [Workshop for algebraic geometry and complex geometry](https://tmcc.whu.edu.cn/info/1981/15851.htm), Wuhan University, Wuhan, China.
