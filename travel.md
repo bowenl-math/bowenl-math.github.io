@@ -18,8 +18,6 @@
 
 * July 8 - July 12, 2024, [2024 Tianyuan Summer School in Algebraic Geometry](http://www.jliumath.com/conferences/2024TSSiAG.html), TMRC, Kunming, China.
 
-* Apr 22 - Apr 26, 2024, [Complex Algebraic Geometry and Related Topics](http://www.mcm.ac.cn/events/programs/202401/t20240122_768739.html), MCM, Beijing, China.
-
 * Jan 14 - Jan 19, 2024, [Tsinghua-Tokyo workshop on Calabi-Yau](https://indico.ipmu.jp/event/422/), IPMU, Tokyo, Japan.
 
 * Dec 22 - Dec 26, 2023, [Workshop on algebraic geometry](http://www.tsimf.cn/meeting/detail?id=360), TSIMF, Sanya, China.
