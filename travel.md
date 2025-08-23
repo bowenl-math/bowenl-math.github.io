@@ -24,8 +24,6 @@
 
 * Dec 22 - Dec 26, 2023, [Workshop on algebraic geometry](http://www.tsimf.cn/meeting/detail?id=360), TSIMF, Sanya, China.
 
-* Aug 9 - Aug 13, 2023, [Workshop for algebraic geometry and complex geometry](https://tmcc.whu.edu.cn/info/1206/2689.htm), Wuhan University, Wuhan, China.
-
 * Jul 10 - Jul 21, 2023, [International Summer School of Algebraic Geometry](https://scms.fudan.edu.cn/info/4503/5820.htm), Fudan University, Shanghai, China.
 
 * Jul 31 - Aug 5, 2022, [ICCM2022](http://iccm.tsinghua.edu.cn/iccm2022/#/), Tsinghua University and Southeast University, Nanjing, China.
