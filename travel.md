@@ -18,11 +18,7 @@
 
 * July 8 - July 12, 2024, [2024 Tianyuan Summer School in Algebraic Geometry](http://www.jliumath.com/conferences/2024TSSiAG.html), TMRC, Kunming, China.
 
-* June 24 - July 5, 2024, [Integrable Systems and Algebraic Geometry](https://www.bimsa.cn/bmpsw/index.html), BIMSA, Beijing, China.
-
 * Apr 22 - Apr 26, 2024, [Complex Algebraic Geometry and Related Topics](http://www.mcm.ac.cn/events/programs/202401/t20240122_768739.html), MCM, Beijing, China.
-
-* Jan 22 - Jan 26, 2024, [Winter School on Homogeneous Dynamics](https://scms.fudan.edu.cn/info/4588/6088.htm), Fudan University, Shanghai, China.
 
 * Jan 14 - Jan 19, 2024, [Tsinghua-Tokyo workshop on Calabi-Yau](https://indico.ipmu.jp/event/422/), IPMU, Tokyo, Japan.
 
