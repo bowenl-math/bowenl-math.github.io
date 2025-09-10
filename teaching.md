@@ -1,5 +1,5 @@
 #### As Lecturer
-* [Riemannian geometry and complex geometry](https://sites.google.com/view/pwf-ve/rcg), Fall 2025.
+* [Riemannian geometry and complex geometry](https://sites.google.com/view/pwf-ve/rcg), ICTP Physics Latam, Fall 2025.
 
 * [Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5), a quick review for first year undergraduate students, Winter 2024.
 
