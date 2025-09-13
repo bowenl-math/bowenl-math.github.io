@@ -1,5 +1,7 @@
 #### Seminar Notes
-* [Seminar on Higgs bundles and related topics](notes/2025Spring/Higgs/syllabus.pdf), Spring 2025.
+* Seminar on Fourier-Mukai transform and vector bundles on abelian variety: [09/12](notes/2025Fall/FM/0912.pdf), Fall 2025
+
+* [Seminar on Higgs bundles on curves](notes/2025Spring/Higgs/syllabus.pdf), Spring 2025.
 
 * [Bridgeland stability and dHYM metric of line bundles on surface](notes/2024Fall/11_28_slides.pdf) ([note version](notes/2024Fall/11_28.pdf)). This is my final report for the course "topics in derived categories", lectured by [Yuwei Fan](https://ywfan-math.github.io/), 2024/11/28.
 
@@ -9,7 +11,7 @@
 
 * [Notes on Algebraic de Rham Cohomology](notes/2024Spring/algebraic_deRham.pdf). I discuss algebraic de Rham complexes, such as comparison theorems, E1 degenerations of Hodge to de Rham spectral sequences, Spring 2024.
 
-* [Seminar on toric variety](notes/2023Fall/toric/syllabus.pdf), and here are some lecture notes: [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30, 1-07](notes/2023Fall/toric/12-30,01-07.pdf), Fall 2023.
+* [Seminar on toric variety](notes/2023Fall/toric/syllabus.pdf): [09-23](notes/2023Fall/toric/09-23.pdf), [10-07](notes/2023Fall/toric/10-07.pdf), [10-28](notes/2023Fall/toric/10-28.pdf), [11-11](notes/2023Fall/toric/11-11.pdf), [11-18](notes/2023Fall/toric/11-18.pdf), [12-30, 1-07](notes/2023Fall/toric/12-30,01-07.pdf), Fall 2023.
 
 * [Curvatures of left-invariant metrics on Lie groups](notes/personal notes/Curvatures_of_Lie_group.pdf). Slides on curvature properties of left-invariant metrics on Lie groups, and the main reference is Milnor's [paper](https://mathscinet.ams.org/mathscinet/article?mr=0425012), 2023/09/22.
 
