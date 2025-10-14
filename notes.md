@@ -1,6 +1,4 @@
 #### Seminar Notes
-* [Seminar on Fourier-Mukai transform and vector bundles on abelian variety](notes/2025Fall/FM/syllabus.pdf): [09/12](notes/2025Fall/FM/0912.pdf), [09/19](notes/2025Fall/FM/0919.pdf), [09/26](notes/2025Fall/FM/0926.pdf) Fall 2025
-
 * [Seminar on Higgs bundles on curves](notes/2025Spring/Higgs/syllabus.pdf), Spring 2025.
 
 * [Bridgeland stability and dHYM metric of line bundles on surface](notes/2024Fall/11_28_slides.pdf) ([note version](notes/2024Fall/11_28.pdf)). This is my final report for the course "topics in derived categories", lectured by [Yuwei Fan](https://ywfan-math.github.io/), 2024/11/28.
