@@ -14,7 +14,7 @@ My email is liubw22 [at] mails [dot] tsinghua [dot] edu [dot] cn, and you can fi
 Please contact me by email or let's have coffee at Shuangqing if you find any mistake in my notes. All comments are welcomed.
 
 
-### On-going activities recently
+### On-going
 #### Seminar
 * [Seminar on Fourier-Mukai transform and vector bundles on abelian variety](notes/2025Fall/FM/syllabus.pdf): [09/12](notes/2025Fall/FM/0912.pdf), [09/19](notes/2025Fall/FM/0919.pdf), [09/26](notes/2025Fall/FM/0926.pdf), [10/10](notes/2025Fall/FM/1010.pdf), Fall 2025.
 
@@ -23,10 +23,6 @@ Please contact me by email or let's have coffee at Shuangqing if you find any mi
 
 #### TA
 * [Linear algebra](notes/2025Spring/linear_algebra.pdf), lectured by Chenglong Yu, Zhiwei Zheng, 2025.
-
-
-
-
 
 ### Archived
 
