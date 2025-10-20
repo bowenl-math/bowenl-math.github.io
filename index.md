@@ -15,7 +15,7 @@ Please contact me by email or let's have coffee at Shuangqing if you find any mi
 
 
 ### On-going
-* [Seminar on Fourier-Mukai transform and vector bundles on abelian variety](notes/2025Fall/FM/syllabus.pdf): [09/12](notes/2025Fall/FM/0912.pdf), [09/19](notes/2025Fall/FM/0919.pdf), [09/26](notes/2025Fall/FM/0926.pdf), [10/10](notes/2025Fall/FM/1010.pdf), Fall 2025.
+* [Seminar on Fourier-Mukai transform and vector bundles on abelian variety](notes/2025Fall/FM/syllabus.pdf): [09/12](notes/2025Fall/FM/0912.pdf), [09/19](notes/2025Fall/FM/0919.pdf), [09/26](notes/2025Fall/FM/0926.pdf), [10/10](notes/2025Fall/FM/1010.pdf),  [10/19](notes/2025Fall/FM/1019.pdf), Fall 2025.
 * (Teaching) [Riemannian geometry and complex geometry](https://sites.google.com/view/pwf-ve/rcg), ICTP Physics Latam, Fall 2025.
 * (TA) [Linear algebra](notes/2025Spring/linear_algebra.pdf), lectured by Chenglong Yu, Zhiwei Zheng, 2025.
 
