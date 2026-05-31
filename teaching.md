@@ -1,4 +1,6 @@
 #### As Lecturer
+* [Riemannian geometry and complex geometry](https://sites.google.com/view/pwf-ve/rcg), ICTP Physics Latam, Fall 2025.
+
 * [Review of Algebra1](https://bowenl.notion.site/2024-02-1-44163401a7dd4cf28aa86264640464b5), a quick review for first year undergraduate students, Winter 2024.
 
 #### As Teaching Assistant
@@ -8,7 +10,7 @@
 
 * Algebra1, lectured by Xiang He, [solutions to homework](notes/2023Fall/Solutions_to_HW.pdf), Fall 2023.
 
-* [Algebra2-H](notes/2023Spring/Algebra2-H.pdf), lectured by Chenglong Yu, part solutions to homework [1/3/5/7](notes/2023Spring/Solutions(1_3_5_7).pdf), [9/11/13](notes/2023Spring/Solutions(9_11_13).pdf), Spring 2023.
+* [Algebra2-H](notes/2023Spring/Algebra2-H.pdf), lectured by Chenglong Yu, part solutions to homework [1/3/5/7](notes/2023Spring/Solutions%281_3_5_7%29.pdf), [9/11/13](notes/2023Spring/Solutions%289_11_13%29.pdf), Spring 2023.
 
 * Abstract algebra, lectured by Xiang He, [solutions to homework](notes/2022Fall/Sol_to_abstract_algebra.pdf), Fall 2022.
 
