@@ -15,7 +15,7 @@
 
 * [Review of topology](notes/personal notes/Review_of_topology/slides.pdf) ([note version](notes/personal notes/Review_of_topology/note.pdf)) frequently used in geometry, 2023/06/27.
 
-* [Uniqueness of the K\"ahler structure of complex projective space](notes/personal notes/Uniqueness_CPn/slides.pdf) ([note version](notes/personal notes/Uniqueness_CPn/note.pdf)). This is my final report for the course "advanced topics in complex geometry", lectured by Xiaokui Yang, 2023/06/08.
+* [Uniqueness of the Kähler structure of complex projective space](notes/personal notes/Uniqueness_CPn/slides.pdf) ([note version](notes/personal notes/Uniqueness_CPn/note.pdf)). This is my final report for the course "advanced topics in complex geometry", lectured by Xiaokui Yang, 2023/06/08.
 
 * [Principal bundle and its applications](notes/2023Spring/geometry_of_principal_bundle.pdf). Based on a talk I gave, In this lecture, firstly I introduce principal bundle and connections on it, and then I introduce its applications on Chern-Weil theory, Spring 2023.
 
