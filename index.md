@@ -14,11 +14,6 @@ My email is liubw22 [at] mails [dot] tsinghua [dot] edu [dot] cn, and you can fi
 Please contact me by email, or let's have coffee at Shuangqing, if you find any mistakes in my notes. All comments are welcome.
 
 
-### Ongoing
-* [Seminar on Fourier-Mukai transform and vector bundles on abelian variety](notes/2025Fall/FM/syllabus.pdf): [09/12](notes/2025Fall/FM/0912.pdf), [09/19](notes/2025Fall/FM/0919.pdf), [09/26](notes/2025Fall/FM/0926.pdf), [10/10](notes/2025Fall/FM/1010.pdf),  [10/19](notes/2025Fall/FM/1019.pdf), [10/24](notes/2025Fall/FM/1024.pdf), [10/31](notes/2025Fall/FM/1031.pdf), [11/07](notes/2025Fall/FM/1107.pdf), Fall 2025.
-* (Teaching) [Riemannian geometry and complex geometry](https://sites.google.com/view/pwf-ve/rcg), ICTP Physics Latam, Fall 2025.
-* (TA) [Linear algebra](notes/2025Spring/linear_algebra.pdf), lectured by Chenglong Yu, Zhiwei Zheng, 2025.
-
 ### Archived
 
 * [Notes](/notes.md) - Seminar notes, lecture notes, and some learning notes I typed when I was learning it.
